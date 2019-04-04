@@ -1,0 +1,33 @@
+version: '2'
+services:
+  parser:
+    entrypoint: nodemon -L /app/node_modules/altha/src/core/altha.js start --app parser
+    build:
+      context: .
+      args:
+        ACCESS_TOKEN: $ARGONLABS_TOKEN
+    ports:
+      - 8094:80
+    volumes:
+      - ./classes:/app/classes
+      - ./config:/app/config
+      - ./controllers:/app/controllers
+      - ./errors:/app/errors
+      - ./initializers:/app/initializers
+      - ./schemas:/app/schemas
+    depends_on:
+      - redis
+      - mongo
+
+  mongo:
+    image: mongo:4.0.5-xenial
+    ports:
+      - 27017:27017
+    volumes:
+      - mongo:/data/db
+
+  redis:
+    image: redis:5.0.3-alpine
+
+volumes:
+  mongo:

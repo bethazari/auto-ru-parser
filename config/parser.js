@@ -27,5 +27,7 @@ module.exports = {
       },
     }
   },
-  constants: {},
+  constants: {
+    catalogUrl: "https://auto.ru/catalog/cars/",
+  },
 };

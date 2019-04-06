@@ -1,6 +1,7 @@
 
 const rp = require("request-promise");
 const $ = require("cheerio");
+const util = require("util");
 
 
 class AutoRuParserInitializer {
@@ -9,7 +10,11 @@ class AutoRuParserInitializer {
     altha.logger.app.info("<==== Brands loading ====>");
     const brands = await this.loadBrands();
     altha.logger.app.info("<==== Models loading ====>");
-    const models = await this.loadModels(brands[0]);
+    let models = [];
+    for (let brand of brands) {
+      models = models.concat(await this.loadModels(brand));
+    }
+    console.log(models.length);
 
   }
 
@@ -61,13 +66,22 @@ class AutoRuParserInitializer {
     }
   }
 
+  async loadGenerations(model) {
+    console.log(model);
+  }
+
   async _getAutoRuPageHtml(url) {
+    await this._delay(1000);
     return await rp({
       url,
       headers: {
         "Cookie": "los=1; los=1; bltsr=1; bltsr=1",
       },
     });
+  }
+
+  async _delay(ms) {
+    return util.promisify((ms) => setTimeout(() => {}, ms));
   }
 }
 

@@ -15,6 +15,7 @@ services:
       - ./errors:/app/errors
       - ./initializers:/app/initializers
       - ./schemas:/app/schemas
+      - ./data:/app/data
     depends_on:
       - redis
       - mongo

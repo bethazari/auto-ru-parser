@@ -1,0 +1,210 @@
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2bf4"), 
+    "name" : "Audi", 
+    "url" : "https://auto.ru/catalog/cars/audi/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2bf5"), 
+    "name" : "BMW", 
+    "url" : "https://auto.ru/catalog/cars/bmw/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2bf6"), 
+    "name" : "Chevrolet", 
+    "url" : "https://auto.ru/catalog/cars/chevrolet/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2bf7"), 
+    "name" : "Citroen", 
+    "url" : "https://auto.ru/catalog/cars/citroen/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2bf8"), 
+    "name" : "Daewoo", 
+    "url" : "https://auto.ru/catalog/cars/daewoo/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2bf9"), 
+    "name" : "Ford", 
+    "url" : "https://auto.ru/catalog/cars/ford/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2bfa"), 
+    "name" : "Honda", 
+    "url" : "https://auto.ru/catalog/cars/honda/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2bfb"), 
+    "name" : "Hyundai", 
+    "url" : "https://auto.ru/catalog/cars/hyundai/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2bfc"), 
+    "name" : "Infiniti", 
+    "url" : "https://auto.ru/catalog/cars/infiniti/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2bfd"), 
+    "name" : "Jeep", 
+    "url" : "https://auto.ru/catalog/cars/jeep/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2bfe"), 
+    "name" : "Kia", 
+    "url" : "https://auto.ru/catalog/cars/kia/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2bff"), 
+    "name" : "LADA (ВАЗ)", 
+    "url" : "https://auto.ru/catalog/cars/vaz/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2c00"), 
+    "name" : "Land Rover", 
+    "url" : "https://auto.ru/catalog/cars/land_rover/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2c01"), 
+    "name" : "Lexus", 
+    "url" : "https://auto.ru/catalog/cars/lexus/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2c02"), 
+    "name" : "Mazda", 
+    "url" : "https://auto.ru/catalog/cars/mazda/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2c03"), 
+    "name" : "Mercedes-Benz", 
+    "url" : "https://auto.ru/catalog/cars/mercedes/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2c04"), 
+    "name" : "Mitsubishi", 
+    "url" : "https://auto.ru/catalog/cars/mitsubishi/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2c05"), 
+    "name" : "Nissan", 
+    "url" : "https://auto.ru/catalog/cars/nissan/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2c06"), 
+    "name" : "Opel", 
+    "url" : "https://auto.ru/catalog/cars/opel/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2c07"), 
+    "name" : "Peugeot", 
+    "url" : "https://auto.ru/catalog/cars/peugeot/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2c08"), 
+    "name" : "Porsche", 
+    "url" : "https://auto.ru/catalog/cars/porsche/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2c09"), 
+    "name" : "Renault", 
+    "url" : "https://auto.ru/catalog/cars/renault/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2c0a"), 
+    "name" : "Skoda", 
+    "url" : "https://auto.ru/catalog/cars/skoda/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2c0b"), 
+    "name" : "SsangYong", 
+    "url" : "https://auto.ru/catalog/cars/ssang_yong/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2c0c"), 
+    "name" : "Subaru", 
+    "url" : "https://auto.ru/catalog/cars/subaru/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2c0d"), 
+    "name" : "Suzuki", 
+    "url" : "https://auto.ru/catalog/cars/suzuki/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2c0e"), 
+    "name" : "Toyota", 
+    "url" : "https://auto.ru/catalog/cars/toyota/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2c0f"), 
+    "name" : "Volkswagen", 
+    "url" : "https://auto.ru/catalog/cars/volkswagen/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2c10"), 
+    "name" : "Volvo", 
+    "url" : "https://auto.ru/catalog/cars/volvo/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}
+{ 
+    "_id" : ObjectId("5ca7c8b0ddb70100115c2c11"), 
+    "name" : "УАЗ", 
+    "url" : "https://auto.ru/catalog/cars/uaz/", 
+    "created" : ISODate("2019-04-05T21:29:20.927+0000"), 
+    "updated" : ISODate("2019-04-05T21:29:20.927+0000")
+}

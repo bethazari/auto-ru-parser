@@ -14,7 +14,12 @@ class AutoRuParserInitializer {
     for (let brand of brands) {
       models = models.concat(await this.loadModels(brand));
     }
-    console.log(models.length);
+    altha.logger.app.info("<==== Generations loading ====>");
+    let generations = [];
+    for (let model of models) {
+      generations = generations.concat(await this.loadGenerations(model));
+    }
+    console.log(generations.length);
 
   }
 
@@ -67,7 +72,34 @@ class AutoRuParserInitializer {
   }
 
   async loadGenerations(model) {
-    console.log(model);
+    altha.logger.app.info(`Fetch generations for model ${model.name} from db...`);
+    const generations = await altha.mongo.main.db.collection("generations").find({model: model.name}).toArray();
+    if (generations && generations.length) {
+      altha.logger.app.info(`There are ${generations.length} generations for model ${model.name} in db!`);
+      return generations;
+    } else {
+      const html = await this._getAutoRuPageHtml(model.url);
+      const parsedGenerations = $(".search-form-v2-list_step_generations > a", html)
+        .map((i, link) => {
+          const years = $(link).find(".search-form-v2-list__card-title").text();
+          return {
+            name: $(link).find(".search-form-v2-list__card-text").text(),
+            url: $(link).attr("href"),
+            model: model.name,
+            brand: model.brand,
+            image: $(link).find("img").attr("src"),
+            start_year: years.split(" – ")[0],
+            end_year: years.split(" – ")[1],
+            created: new Date(),
+            updated: new Date(),
+          }
+        })
+        .get();
+      altha.logger.app.info(`Parsed ${parsedGenerations.length} generations for model ${model.name}!`);
+      altha.logger.app.info(`Saving generations into db...`);
+      await altha.mongo.main.db.collection("generations").insertMany(parsedGenerations);
+      return parsedGenerations;
+    }
   }
 
   async _getAutoRuPageHtml(url) {

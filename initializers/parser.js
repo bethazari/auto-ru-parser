@@ -9,6 +9,7 @@ const util = require("util");
 
 const writeFile = util.promisify(fs.writeFile);
 const readDir = util.promisify(fs.readdir);
+const delay = util.promisify((ms, f) => setTimeout(f, ms));
 
 
 class AutoRuParserInitializer {
@@ -28,9 +29,9 @@ class AutoRuParserInitializer {
     }
     altha.logger.app.info("<==== Generations images caching ====>");
     const images = await readDir(`${path.resolve(".")}/cdn/images`);
-    //for (let generation of generations) {
-      await this.loadImage(generations[0], images);
-    //}
+    for (let generation of generations) {
+      await this.loadImage(generation, images);
+    }
 
     // # TODO: тут будет парсинг кузовов и цен по каждому - но только по выбранным юзером в интерфейсе моделям
   }
@@ -85,13 +86,13 @@ class AutoRuParserInitializer {
   }
 
   async loadGenerations(model) {
-    altha.logger.app.info(`Fetch generations for model ${model.name} from db...`);
+    altha.logger.app.info(`Fetch generations for brand ${model.brand}, model ${model.name} from db...`);
     const generations = await altha.mongo.main.db.collection("generations").find({model: model.name}).toArray();
     if (generations && generations.length) {
-      altha.logger.app.info(`There are ${generations.length} generations for model ${model.name} in db!`);
+      altha.logger.app.info(`There are ${generations.length} generations for brand ${model.brand}, model ${model.name} in db!`);
       return generations;
     } else {
-      altha.logger.app.info(`There are no generations for model ${model.name} in db!`);
+      altha.logger.app.info(`There are no generations for brand ${model.brand}, model ${model.name} in db!`);
       const html = await this._getAutoRuPageHtml(model.url);
       const parsedGenerations = $(".catalog-generation-summary__generations > div", html)
         .map((i, block) => {
@@ -111,7 +112,7 @@ class AutoRuParserInitializer {
           }
         })
         .get();
-      altha.logger.app.info(`Parsed ${parsedGenerations.length} generations for model ${model.name}!`);
+      altha.logger.app.info(`Parsed ${parsedGenerations.length} generations for brand ${model.brand}, model ${model.name}!`);
       altha.logger.app.info(`Saving generations into db...`);
       await altha.mongo.main.db.collection("generations").insertMany(parsedGenerations);
       return parsedGenerations;
@@ -119,13 +120,13 @@ class AutoRuParserInitializer {
   }
 
   async loadImage(generation, images) {
-    altha.logger.app.info(`Fetch image for generation ${generation.name} from fs...`);
+    altha.logger.app.info(`Fetch image for brand ${generation.brand}, model ${generation.model}, generation ${generation.name} from fs...`);
     const imageExists = images.find(imageName => imageName === generation.image_name);
     if (!imageExists) {
-      altha.logger.app.info(`There is no image for generation ${generation.name} on fs!`);
+      altha.logger.app.info(`There is no image for brand ${generation.brand}, model ${generation.model}, generation ${generation.name} on fs!`);
       const response = await this._getAutoRuImage(`http://${generation.image}`);
-      const imageName = `${generation.name}.${response.headers["content-type"].split("image/")[1]}`;
-      altha.logger.app.info(`Fetched image for generation ${generation.name}!`);
+      const imageName = `${generation.name.replace(/\//g, "_")}.${response.headers["content-type"].split("image/")[1]}`;
+      altha.logger.app.info(`Fetched image for brand ${generation.brand}, model ${generation.model}, generation ${generation.name}!`);
       await writeFile(`${path.resolve(".")}/cdn/images/${imageName}`, response.body, "binary");
       altha.logger.app.info(`Saving imagename into db...`);
       await altha.mongo.main.db.collection("generations").updateOne(
@@ -136,7 +137,7 @@ class AutoRuParserInitializer {
   }
 
   async _getAutoRuPageHtml(url) {
-    await this._delay(1000);
+    await delay(1000);
     return await rp({
       url,
       headers: {
@@ -146,16 +147,13 @@ class AutoRuParserInitializer {
   }
 
   async _getAutoRuImage(url) {
-    await this._delay(1000);
+    await delay(1000);
     return await rp(url, {
       encoding: "binary",
       resolveWithFullResponse: true,
     });
   }
 
-  async _delay(ms) {
-    return util.promisify((ms) => setTimeout(() => {}, ms));
-  }
 }
 
 module.exports = AutoRuParserInitializer;

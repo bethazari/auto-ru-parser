@@ -20,7 +20,7 @@ class AutoRuParserInitializer {
       generations = generations.concat(await this.loadGenerations(model));
     }
     console.log(generations.length);
-    
+
     // # TODO: тут будет парсинг кузовов и цен по каждому - но только по выбранным юзером в интерфейсе моделям
 
   }
@@ -81,17 +81,19 @@ class AutoRuParserInitializer {
       return generations;
     } else {
       const html = await this._getAutoRuPageHtml(model.url);
-      const parsedGenerations = $(".search-form-v2-list_step_generations > a", html)
-        .map((i, link) => {
-          const years = $(link).find(".search-form-v2-list__card-title").text();
+      const parsedGenerations = $(".catalog-generation-summary__generations > div", html)
+        .map((i, block) => {
+          const info = $(block).find(".catalog-generation-summary__gen-info > div");
+          const image = $(block).find("div").last();
+          const link = $(block).find("a");
           return {
-            name: $(link).find(".search-form-v2-list__card-text").text(),
-            url: $(link).attr("href"),
+            name: $(info).last().text(),
+            url: link.attr("href"),
             model: model.name,
             brand: model.brand,
-            image: $(link).find("img").attr("src"),
-            start_year: years.split(" – ")[0],
-            end_year: years.split(" – ")[1],
+            image: image.attr("style").replace(/background-image: url\(\/\/(.+)\);/, "$1"),
+            start_year: info.first().text().split(" – ")[0],
+            end_year: info.first().text().split(" – ")[1],
             created: new Date(),
             updated: new Date(),
           }

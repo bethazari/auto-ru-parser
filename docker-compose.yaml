@@ -16,6 +16,7 @@ services:
       - ./initializers:/app/initializers
       - ./schemas:/app/schemas
       - ./data:/app/data
+      - ./cdn:/app/cdn
     depends_on:
       - redis
       - mongo

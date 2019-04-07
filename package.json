@@ -11,6 +11,8 @@
   "dependencies": {
     "altha": "git+https://ACCESS_TOKEN@git.argonlabs.ru/engines/altha#v1.1.0",
     "cheerio": "1.0.0-rc.2",
+    "file-type": "10.10.0",
+    "image-downloader": "3.4.2",
     "request": "2.88.0",
     "request-promise": "4.2.4"
   }

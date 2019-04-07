@@ -20,6 +20,7 @@ class AutoRuParserInitializer {
       generations = generations.concat(await this.loadGenerations(model));
     }
     console.log(generations.length);
+    
     // # TODO: тут будет парсинг кузовов и цен по каждому - но только по выбранным юзером в интерфейсе моделям
 
   }

@@ -1,3 +1,4 @@
+[
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd4048"), 
     "name" : "100", 
@@ -5,7 +6,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd4049"), 
     "name" : "200", 
@@ -13,7 +14,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd404a"), 
     "name" : "80", 
@@ -21,7 +22,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd404b"), 
     "name" : "90", 
@@ -29,7 +30,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd404c"), 
     "name" : "A1", 
@@ -37,7 +38,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd404d"), 
     "name" : "A3", 
@@ -45,7 +46,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd404e"), 
     "name" : "A4", 
@@ -53,7 +54,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd404f"), 
     "name" : "A4 allroad", 
@@ -61,7 +62,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd4050"), 
     "name" : "A5", 
@@ -69,7 +70,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd4051"), 
     "name" : "A6", 
@@ -77,7 +78,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd4052"), 
     "name" : "A6 allroad", 
@@ -85,7 +86,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd4053"), 
     "name" : "A7", 
@@ -93,7 +94,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd4054"), 
     "name" : "A8", 
@@ -101,7 +102,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd4055"), 
     "name" : "Q3", 
@@ -109,7 +110,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd4056"), 
     "name" : "Q5", 
@@ -117,7 +118,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd4057"), 
     "name" : "Q7", 
@@ -125,7 +126,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd4058"), 
     "name" : "Q8", 
@@ -133,7 +134,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd4059"), 
     "name" : "R8", 
@@ -141,7 +142,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd405a"), 
     "name" : "RS 4", 
@@ -149,7 +150,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd405b"), 
     "name" : "RS 5", 
@@ -157,7 +158,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd405c"), 
     "name" : "RS 6", 
@@ -165,7 +166,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd405d"), 
     "name" : "RS 7", 
@@ -173,7 +174,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd405e"), 
     "name" : "RS Q3", 
@@ -181,7 +182,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd405f"), 
     "name" : "S4", 
@@ -189,7 +190,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd4060"), 
     "name" : "S5", 
@@ -197,7 +198,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd4061"), 
     "name" : "S6", 
@@ -205,7 +206,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.524+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.524+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd4062"), 
     "name" : "S8", 
@@ -213,7 +214,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.525+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.525+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd4063"), 
     "name" : "SQ5", 
@@ -221,7 +222,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.525+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.525+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd4064"), 
     "name" : "TT", 
@@ -229,7 +230,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.525+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.525+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970b1ea0e60010dd4065"), 
     "name" : "TTS", 
@@ -237,7 +238,7 @@
     "brand" : "Audi", 
     "created" : ISODate("2019-04-06T12:09:47.525+0000"), 
     "updated" : ISODate("2019-04-06T12:09:47.525+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd4066"), 
     "name" : "1 серия", 
@@ -245,7 +246,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.850+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.850+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd4067"), 
     "name" : "1M", 
@@ -253,7 +254,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.850+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.850+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd4068"), 
     "name" : "2 серия", 
@@ -261,7 +262,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.850+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.850+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd4069"), 
     "name" : "2 серия Active Tourer", 
@@ -269,7 +270,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.850+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.850+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd406a"), 
     "name" : "2 серия Grand Tourer", 
@@ -277,7 +278,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.850+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.850+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd406b"), 
     "name" : "3 серия", 
@@ -285,7 +286,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.850+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.850+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd406c"), 
     "name" : "321", 
@@ -293,7 +294,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.850+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.850+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd406d"), 
     "name" : "4 серия", 
@@ -301,7 +302,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.850+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.850+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd406e"), 
     "name" : "5 серия", 
@@ -309,7 +310,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.850+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.850+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd406f"), 
     "name" : "6 серия", 
@@ -317,7 +318,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.850+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.850+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd4070"), 
     "name" : "7 серия", 
@@ -325,7 +326,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.850+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.850+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd4071"), 
     "name" : "8 серия", 
@@ -333,7 +334,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.850+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.850+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd4072"), 
     "name" : "M2", 
@@ -341,7 +342,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.850+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.850+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd4073"), 
     "name" : "M3", 
@@ -349,7 +350,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.850+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.850+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd4074"), 
     "name" : "M4", 
@@ -357,7 +358,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.850+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.850+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd4075"), 
     "name" : "M5", 
@@ -365,7 +366,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.850+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.850+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd4076"), 
     "name" : "M6", 
@@ -373,7 +374,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.851+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.851+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd4077"), 
     "name" : "X1", 
@@ -381,7 +382,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.851+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.851+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd4078"), 
     "name" : "X2", 
@@ -389,7 +390,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.851+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.851+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd4079"), 
     "name" : "X3", 
@@ -397,7 +398,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.851+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.851+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd407a"), 
     "name" : "X4", 
@@ -405,7 +406,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.851+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.851+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd407b"), 
     "name" : "X5", 
@@ -413,7 +414,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.851+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.851+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd407c"), 
     "name" : "X5 M", 
@@ -421,7 +422,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.851+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.851+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd407d"), 
     "name" : "X6", 
@@ -429,7 +430,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.851+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.851+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd407e"), 
     "name" : "X6 M", 
@@ -437,7 +438,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.851+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.851+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd407f"), 
     "name" : "X7", 
@@ -445,7 +446,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.851+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.851+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd4080"), 
     "name" : "Z4", 
@@ -453,7 +454,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.851+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.851+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd4081"), 
     "name" : "Z4 M", 
@@ -461,7 +462,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.851+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.851+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd4082"), 
     "name" : "i3", 
@@ -469,7 +470,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.851+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.851+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970c1ea0e60010dd4083"), 
     "name" : "i8", 
@@ -477,7 +478,7 @@
     "brand" : "BMW", 
     "created" : ISODate("2019-04-06T12:09:48.851+0000"), 
     "updated" : ISODate("2019-04-06T12:09:48.851+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd4084"), 
     "name" : "Astro", 
@@ -485,7 +486,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.780+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.780+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd4085"), 
     "name" : "Avalanche", 
@@ -493,7 +494,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.780+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.780+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd4086"), 
     "name" : "Aveo", 
@@ -501,7 +502,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.780+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.780+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd4087"), 
     "name" : "Blazer", 
@@ -509,7 +510,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.780+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.780+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd4088"), 
     "name" : "Blazer K5", 
@@ -517,7 +518,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.780+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.780+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd4089"), 
     "name" : "Camaro", 
@@ -525,7 +526,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.780+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.780+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd408a"), 
     "name" : "Captiva", 
@@ -533,7 +534,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.780+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.780+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd408b"), 
     "name" : "Cobalt", 
@@ -541,7 +542,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.780+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.780+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd408c"), 
     "name" : "Colorado", 
@@ -549,7 +550,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.780+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.780+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd408d"), 
     "name" : "Corvette", 
@@ -557,7 +558,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.780+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.780+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd408e"), 
     "name" : "Cruze", 
@@ -565,7 +566,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.780+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.780+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd408f"), 
     "name" : "Epica", 
@@ -573,7 +574,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.780+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.780+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd4090"), 
     "name" : "Equinox", 
@@ -581,7 +582,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.780+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.780+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd4091"), 
     "name" : "Evanda", 
@@ -589,7 +590,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.780+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.780+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd4092"), 
     "name" : "Express", 
@@ -597,7 +598,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.780+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.780+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd4093"), 
     "name" : "Impala", 
@@ -605,7 +606,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.780+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.780+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd4094"), 
     "name" : "Lacetti", 
@@ -613,7 +614,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.780+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.780+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd4095"), 
     "name" : "Lanos", 
@@ -621,7 +622,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.780+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.780+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd4096"), 
     "name" : "Malibu", 
@@ -629,7 +630,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.780+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.780+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd4097"), 
     "name" : "Niva", 
@@ -637,7 +638,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.780+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.780+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd4098"), 
     "name" : "Orlando", 
@@ -645,7 +646,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.780+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.780+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd4099"), 
     "name" : "Rezzo", 
@@ -653,7 +654,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.780+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.780+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd409a"), 
     "name" : "Silverado", 
@@ -661,7 +662,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.780+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.780+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd409b"), 
     "name" : "Spark", 
@@ -669,7 +670,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.781+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.781+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd409c"), 
     "name" : "Suburban", 
@@ -677,7 +678,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.781+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.781+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd409d"), 
     "name" : "Tahoe", 
@@ -685,7 +686,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.781+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.781+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd409e"), 
     "name" : "Tracker", 
@@ -693,7 +694,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.781+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.781+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd409f"), 
     "name" : "TrailBlazer", 
@@ -701,7 +702,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.781+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.781+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd40a0"), 
     "name" : "Traverse", 
@@ -709,7 +710,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.781+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.781+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970d1ea0e60010dd40a1"), 
     "name" : "Van", 
@@ -717,7 +718,7 @@
     "brand" : "Chevrolet", 
     "created" : ISODate("2019-04-06T12:09:49.781+0000"), 
     "updated" : ISODate("2019-04-06T12:09:49.781+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40a2"), 
     "name" : "2 CV", 
@@ -725,7 +726,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.549+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.549+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40a3"), 
     "name" : "AMI", 
@@ -733,7 +734,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.549+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.549+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40a4"), 
     "name" : "AX", 
@@ -741,7 +742,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.549+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.549+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40a5"), 
     "name" : "BX", 
@@ -749,7 +750,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.549+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.549+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40a6"), 
     "name" : "Berlingo", 
@@ -757,7 +758,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.549+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.549+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40a7"), 
     "name" : "C-Crosser", 
@@ -765,7 +766,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.549+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.549+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40a8"), 
     "name" : "C-Elysee", 
@@ -773,7 +774,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.549+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.549+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40a9"), 
     "name" : "C-Quatre", 
@@ -781,7 +782,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.549+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.549+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40aa"), 
     "name" : "C-Triomphe", 
@@ -789,7 +790,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.549+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.549+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40ab"), 
     "name" : "C1", 
@@ -797,7 +798,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.549+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.549+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40ac"), 
     "name" : "C2", 
@@ -805,7 +806,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.549+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.549+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40ad"), 
     "name" : "C3", 
@@ -813,7 +814,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.549+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.549+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40ae"), 
     "name" : "C3 Aircross", 
@@ -821,7 +822,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.549+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.549+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40af"), 
     "name" : "C3 Picasso", 
@@ -829,7 +830,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.549+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.549+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40b0"), 
     "name" : "C4", 
@@ -837,7 +838,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.549+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.549+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40b1"), 
     "name" : "C4 Aircross", 
@@ -845,7 +846,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.550+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.550+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40b2"), 
     "name" : "C4 Picasso", 
@@ -853,7 +854,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.550+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.550+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40b3"), 
     "name" : "C5", 
@@ -861,7 +862,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.550+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.550+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40b4"), 
     "name" : "C6", 
@@ -869,7 +870,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.550+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.550+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40b5"), 
     "name" : "C8", 
@@ -877,7 +878,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.550+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.550+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40b6"), 
     "name" : "DS3", 
@@ -885,7 +886,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.550+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.550+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40b7"), 
     "name" : "DS4", 
@@ -893,7 +894,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.550+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.550+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40b8"), 
     "name" : "DS5", 
@@ -901,7 +902,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.550+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.550+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40b9"), 
     "name" : "Evasion", 
@@ -909,7 +910,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.550+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.550+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40ba"), 
     "name" : "Jumpy", 
@@ -917,7 +918,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.550+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.550+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40bb"), 
     "name" : "Saxo", 
@@ -925,7 +926,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.550+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.550+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40bc"), 
     "name" : "SpaceTourer", 
@@ -933,7 +934,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.550+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.550+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40bd"), 
     "name" : "Xantia", 
@@ -941,7 +942,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.550+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.550+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40be"), 
     "name" : "Xsara", 
@@ -949,7 +950,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.550+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.550+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970e1ea0e60010dd40bf"), 
     "name" : "Xsara Picasso", 
@@ -957,7 +958,7 @@
     "brand" : "Citroen", 
     "created" : ISODate("2019-04-06T12:09:50.550+0000"), 
     "updated" : ISODate("2019-04-06T12:09:50.550+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40c0"), 
     "name" : "Alpheon", 
@@ -965,7 +966,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.814+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.814+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40c1"), 
     "name" : "Arcadia", 
@@ -973,7 +974,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.814+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.814+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40c2"), 
     "name" : "Chairman", 
@@ -981,7 +982,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.814+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.814+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40c3"), 
     "name" : "Damas", 
@@ -989,7 +990,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.814+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.814+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40c4"), 
     "name" : "Espero", 
@@ -997,7 +998,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.814+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.814+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40c5"), 
     "name" : "Evanda", 
@@ -1005,7 +1006,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.814+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.814+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40c6"), 
     "name" : "G2X", 
@@ -1013,7 +1014,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.814+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.814+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40c7"), 
     "name" : "Gentra", 
@@ -1021,7 +1022,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.814+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.814+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40c8"), 
     "name" : "Kalos", 
@@ -1029,7 +1030,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.814+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.814+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40c9"), 
     "name" : "Korando", 
@@ -1037,7 +1038,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.814+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.814+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40ca"), 
     "name" : "Lacetti", 
@@ -1045,7 +1046,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.814+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.814+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40cb"), 
     "name" : "Lacetti Premiere", 
@@ -1053,7 +1054,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.815+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.815+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40cc"), 
     "name" : "Lanos", 
@@ -1061,7 +1062,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.815+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.815+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40cd"), 
     "name" : "LeMans", 
@@ -1069,7 +1070,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.815+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.815+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40ce"), 
     "name" : "Leganza", 
@@ -1077,7 +1078,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.815+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.815+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40cf"), 
     "name" : "Magnus", 
@@ -1085,7 +1086,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.815+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.815+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40d0"), 
     "name" : "Matiz", 
@@ -1093,7 +1094,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.815+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.815+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40d1"), 
     "name" : "Matiz Creative", 
@@ -1101,7 +1102,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.815+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.815+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40d2"), 
     "name" : "Musso", 
@@ -1109,7 +1110,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.815+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.815+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40d3"), 
     "name" : "Nexia", 
@@ -1117,7 +1118,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.815+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.815+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40d4"), 
     "name" : "Nubira", 
@@ -1125,7 +1126,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.815+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.815+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40d5"), 
     "name" : "Prince", 
@@ -1133,7 +1134,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.815+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.815+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40d6"), 
     "name" : "Racer", 
@@ -1141,7 +1142,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.815+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.815+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40d7"), 
     "name" : "Rezzo", 
@@ -1149,7 +1150,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.815+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.815+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40d8"), 
     "name" : "Royale", 
@@ -1157,7 +1158,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.815+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.815+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40d9"), 
     "name" : "Sens", 
@@ -1165,7 +1166,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.815+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.815+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40da"), 
     "name" : "Tacuma", 
@@ -1173,7 +1174,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.815+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.815+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40db"), 
     "name" : "Tico", 
@@ -1181,7 +1182,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.815+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.815+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40dc"), 
     "name" : "Tosca", 
@@ -1189,7 +1190,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.815+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.815+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8970f1ea0e60010dd40dd"), 
     "name" : "Winstorm", 
@@ -1197,7 +1198,7 @@
     "brand" : "Daewoo", 
     "created" : ISODate("2019-04-06T12:09:51.815+0000"), 
     "updated" : ISODate("2019-04-06T12:09:51.815+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40de"), 
     "name" : "C-MAX", 
@@ -1205,7 +1206,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.617+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.617+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40df"), 
     "name" : "Cougar", 
@@ -1213,7 +1214,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.617+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.617+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40e0"), 
     "name" : "EcoSport", 
@@ -1221,7 +1222,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.617+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.617+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40e1"), 
     "name" : "Econoline", 
@@ -1229,7 +1230,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.617+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.617+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40e2"), 
     "name" : "Edge", 
@@ -1237,7 +1238,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.617+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.617+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40e3"), 
     "name" : "Escape", 
@@ -1245,7 +1246,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.617+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.617+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40e4"), 
     "name" : "Escort", 
@@ -1253,7 +1254,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.617+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.617+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40e5"), 
     "name" : "Excursion", 
@@ -1261,7 +1262,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.617+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.617+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40e6"), 
     "name" : "Expedition", 
@@ -1269,7 +1270,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.617+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.617+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40e7"), 
     "name" : "Explorer", 
@@ -1277,7 +1278,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.617+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.617+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40e8"), 
     "name" : "F-150", 
@@ -1285,7 +1286,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.617+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.617+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40e9"), 
     "name" : "Fiesta", 
@@ -1293,7 +1294,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.617+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.617+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40ea"), 
     "name" : "Focus", 
@@ -1301,7 +1302,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.617+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.617+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40eb"), 
     "name" : "Focus (North America)", 
@@ -1309,7 +1310,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.617+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.617+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40ec"), 
     "name" : "Focus ST", 
@@ -1317,7 +1318,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.617+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.617+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40ed"), 
     "name" : "Fusion", 
@@ -1325,7 +1326,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.617+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.617+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40ee"), 
     "name" : "Galaxy", 
@@ -1333,7 +1334,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.617+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.617+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40ef"), 
     "name" : "Kuga", 
@@ -1341,7 +1342,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.617+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.617+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40f0"), 
     "name" : "Maverick", 
@@ -1349,7 +1350,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.617+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.617+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40f1"), 
     "name" : "Mondeo", 
@@ -1357,7 +1358,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.618+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.618+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40f2"), 
     "name" : "Mondeo ST", 
@@ -1365,7 +1366,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.618+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.618+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40f3"), 
     "name" : "Mustang", 
@@ -1373,7 +1374,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.618+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.618+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40f4"), 
     "name" : "Ranger", 
@@ -1381,7 +1382,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.618+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.618+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40f5"), 
     "name" : "S-MAX", 
@@ -1389,7 +1390,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.618+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.618+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40f6"), 
     "name" : "Scorpio", 
@@ -1397,7 +1398,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.618+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.618+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40f7"), 
     "name" : "Sierra", 
@@ -1405,7 +1406,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.618+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.618+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40f8"), 
     "name" : "Taurus", 
@@ -1413,7 +1414,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.618+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.618+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40f9"), 
     "name" : "Tourneo Connect", 
@@ -1421,7 +1422,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.618+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.618+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40fa"), 
     "name" : "Tourneo Custom", 
@@ -1429,7 +1430,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.618+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.618+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897101ea0e60010dd40fb"), 
     "name" : "Windstar", 
@@ -1437,7 +1438,7 @@
     "brand" : "Ford", 
     "created" : ISODate("2019-04-06T12:09:52.618+0000"), 
     "updated" : ISODate("2019-04-06T12:09:52.618+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd40fc"), 
     "name" : "Accord", 
@@ -1445,7 +1446,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.636+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.636+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd40fd"), 
     "name" : "Airwave", 
@@ -1453,7 +1454,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.636+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.636+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd40fe"), 
     "name" : "CR-V", 
@@ -1461,7 +1462,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.636+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.636+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd40ff"), 
     "name" : "CR-X", 
@@ -1469,7 +1470,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.636+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.636+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd4100"), 
     "name" : "Civic", 
@@ -1477,7 +1478,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.636+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.636+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd4101"), 
     "name" : "Civic Ferio", 
@@ -1485,7 +1486,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.636+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.636+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd4102"), 
     "name" : "Civic Type R", 
@@ -1493,7 +1494,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.636+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.636+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd4103"), 
     "name" : "Crosstour", 
@@ -1501,7 +1502,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.636+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.636+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd4104"), 
     "name" : "Domani", 
@@ -1509,7 +1510,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.636+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.636+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd4105"), 
     "name" : "Element", 
@@ -1517,7 +1518,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.636+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.636+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd4106"), 
     "name" : "Elysion", 
@@ -1525,7 +1526,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.636+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.636+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd4107"), 
     "name" : "FR-V", 
@@ -1533,7 +1534,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.636+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.636+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd4108"), 
     "name" : "Fit", 
@@ -1541,7 +1542,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.636+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.636+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd4109"), 
     "name" : "Freed", 
@@ -1549,7 +1550,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.636+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.636+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd410a"), 
     "name" : "HR-V", 
@@ -1557,7 +1558,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.637+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.637+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd410b"), 
     "name" : "Insight", 
@@ -1565,7 +1566,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.637+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.637+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd410c"), 
     "name" : "Integra", 
@@ -1573,7 +1574,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.637+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.637+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd410d"), 
     "name" : "Jazz", 
@@ -1581,7 +1582,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.637+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.637+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd410e"), 
     "name" : "Legend", 
@@ -1589,7 +1590,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.637+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.637+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd410f"), 
     "name" : "Logo", 
@@ -1597,7 +1598,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.637+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.637+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd4110"), 
     "name" : "N-BOX", 
@@ -1605,7 +1606,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.637+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.637+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd4111"), 
     "name" : "Odyssey", 
@@ -1613,7 +1614,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.637+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.637+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd4112"), 
     "name" : "Odyssey (North America)", 
@@ -1621,7 +1622,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.637+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.637+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd4113"), 
     "name" : "Orthia", 
@@ -1629,7 +1630,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.637+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.637+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd4114"), 
     "name" : "Pilot", 
@@ -1637,7 +1638,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.637+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.637+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd4115"), 
     "name" : "Prelude", 
@@ -1645,7 +1646,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.637+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.637+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd4116"), 
     "name" : "Ridgeline", 
@@ -1653,7 +1654,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.637+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.637+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd4117"), 
     "name" : "Shuttle", 
@@ -1661,7 +1662,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.637+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.637+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd4118"), 
     "name" : "Stepwgn", 
@@ -1669,7 +1670,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.637+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.637+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897111ea0e60010dd4119"), 
     "name" : "Stream", 
@@ -1677,7 +1678,7 @@
     "brand" : "Honda", 
     "created" : ISODate("2019-04-06T12:09:53.637+0000"), 
     "updated" : ISODate("2019-04-06T12:09:53.637+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd411a"), 
     "name" : "Accent", 
@@ -1685,7 +1686,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.416+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.416+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd411b"), 
     "name" : "Avante", 
@@ -1693,7 +1694,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.416+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.416+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd411c"), 
     "name" : "Coupe", 
@@ -1701,7 +1702,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd411d"), 
     "name" : "Creta", 
@@ -1709,7 +1710,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd411e"), 
     "name" : "Elantra", 
@@ -1717,7 +1718,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd411f"), 
     "name" : "Equus", 
@@ -1725,7 +1726,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd4120"), 
     "name" : "Galloper", 
@@ -1733,7 +1734,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd4121"), 
     "name" : "Genesis", 
@@ -1741,7 +1742,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd4122"), 
     "name" : "Genesis Coupe", 
@@ -1749,7 +1750,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd4123"), 
     "name" : "Getz", 
@@ -1757,7 +1758,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd4124"), 
     "name" : "Grand Starex", 
@@ -1765,7 +1766,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd4125"), 
     "name" : "Grandeur", 
@@ -1773,7 +1774,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd4126"), 
     "name" : "H-1", 
@@ -1781,7 +1782,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd4127"), 
     "name" : "Lantra", 
@@ -1789,7 +1790,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd4128"), 
     "name" : "Matrix", 
@@ -1797,7 +1798,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd4129"), 
     "name" : "Santa Fe", 
@@ -1805,7 +1806,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd412a"), 
     "name" : "Solaris", 
@@ -1813,7 +1814,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd412b"), 
     "name" : "Sonata", 
@@ -1821,7 +1822,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd412c"), 
     "name" : "Starex", 
@@ -1829,7 +1830,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd412d"), 
     "name" : "Terracan", 
@@ -1837,7 +1838,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd412e"), 
     "name" : "Tiburon", 
@@ -1845,7 +1846,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd412f"), 
     "name" : "Trajet", 
@@ -1853,7 +1854,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd4130"), 
     "name" : "Tucson", 
@@ -1861,7 +1862,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd4131"), 
     "name" : "Veloster", 
@@ -1869,7 +1870,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd4132"), 
     "name" : "Verna", 
@@ -1877,7 +1878,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd4133"), 
     "name" : "i20", 
@@ -1885,7 +1886,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd4134"), 
     "name" : "i30", 
@@ -1893,7 +1894,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd4135"), 
     "name" : "i40", 
@@ -1901,7 +1902,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd4136"), 
     "name" : "ix35", 
@@ -1909,7 +1910,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897121ea0e60010dd4137"), 
     "name" : "ix55", 
@@ -1917,7 +1918,7 @@
     "brand" : "Hyundai", 
     "created" : ISODate("2019-04-06T12:09:54.417+0000"), 
     "updated" : ISODate("2019-04-06T12:09:54.417+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897131ea0e60010dd4138"), 
     "name" : "EX", 
@@ -1925,7 +1926,7 @@
     "brand" : "Infiniti", 
     "created" : ISODate("2019-04-06T12:09:55.581+0000"), 
     "updated" : ISODate("2019-04-06T12:09:55.581+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897131ea0e60010dd4139"), 
     "name" : "FX", 
@@ -1933,7 +1934,7 @@
     "brand" : "Infiniti", 
     "created" : ISODate("2019-04-06T12:09:55.581+0000"), 
     "updated" : ISODate("2019-04-06T12:09:55.581+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897131ea0e60010dd413a"), 
     "name" : "G", 
@@ -1941,7 +1942,7 @@
     "brand" : "Infiniti", 
     "created" : ISODate("2019-04-06T12:09:55.581+0000"), 
     "updated" : ISODate("2019-04-06T12:09:55.581+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897131ea0e60010dd413b"), 
     "name" : "I", 
@@ -1949,7 +1950,7 @@
     "brand" : "Infiniti", 
     "created" : ISODate("2019-04-06T12:09:55.581+0000"), 
     "updated" : ISODate("2019-04-06T12:09:55.581+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897131ea0e60010dd413c"), 
     "name" : "J", 
@@ -1957,7 +1958,7 @@
     "brand" : "Infiniti", 
     "created" : ISODate("2019-04-06T12:09:55.581+0000"), 
     "updated" : ISODate("2019-04-06T12:09:55.581+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897131ea0e60010dd413d"), 
     "name" : "JX", 
@@ -1965,7 +1966,7 @@
     "brand" : "Infiniti", 
     "created" : ISODate("2019-04-06T12:09:55.581+0000"), 
     "updated" : ISODate("2019-04-06T12:09:55.581+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897131ea0e60010dd413e"), 
     "name" : "M", 
@@ -1973,7 +1974,7 @@
     "brand" : "Infiniti", 
     "created" : ISODate("2019-04-06T12:09:55.582+0000"), 
     "updated" : ISODate("2019-04-06T12:09:55.582+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897131ea0e60010dd413f"), 
     "name" : "Q", 
@@ -1981,7 +1982,7 @@
     "brand" : "Infiniti", 
     "created" : ISODate("2019-04-06T12:09:55.582+0000"), 
     "updated" : ISODate("2019-04-06T12:09:55.582+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897131ea0e60010dd4140"), 
     "name" : "Q30", 
@@ -1989,7 +1990,7 @@
     "brand" : "Infiniti", 
     "created" : ISODate("2019-04-06T12:09:55.582+0000"), 
     "updated" : ISODate("2019-04-06T12:09:55.582+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897131ea0e60010dd4141"), 
     "name" : "Q40", 
@@ -1997,7 +1998,7 @@
     "brand" : "Infiniti", 
     "created" : ISODate("2019-04-06T12:09:55.582+0000"), 
     "updated" : ISODate("2019-04-06T12:09:55.582+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897131ea0e60010dd4142"), 
     "name" : "Q50", 
@@ -2005,7 +2006,7 @@
     "brand" : "Infiniti", 
     "created" : ISODate("2019-04-06T12:09:55.582+0000"), 
     "updated" : ISODate("2019-04-06T12:09:55.582+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897131ea0e60010dd4143"), 
     "name" : "Q60", 
@@ -2013,7 +2014,7 @@
     "brand" : "Infiniti", 
     "created" : ISODate("2019-04-06T12:09:55.582+0000"), 
     "updated" : ISODate("2019-04-06T12:09:55.582+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897131ea0e60010dd4144"), 
     "name" : "Q70", 
@@ -2021,7 +2022,7 @@
     "brand" : "Infiniti", 
     "created" : ISODate("2019-04-06T12:09:55.582+0000"), 
     "updated" : ISODate("2019-04-06T12:09:55.582+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897131ea0e60010dd4145"), 
     "name" : "QX30", 
@@ -2029,7 +2030,7 @@
     "brand" : "Infiniti", 
     "created" : ISODate("2019-04-06T12:09:55.582+0000"), 
     "updated" : ISODate("2019-04-06T12:09:55.582+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897131ea0e60010dd4146"), 
     "name" : "QX4", 
@@ -2037,7 +2038,7 @@
     "brand" : "Infiniti", 
     "created" : ISODate("2019-04-06T12:09:55.582+0000"), 
     "updated" : ISODate("2019-04-06T12:09:55.582+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897131ea0e60010dd4147"), 
     "name" : "QX50", 
@@ -2045,7 +2046,7 @@
     "brand" : "Infiniti", 
     "created" : ISODate("2019-04-06T12:09:55.582+0000"), 
     "updated" : ISODate("2019-04-06T12:09:55.582+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897131ea0e60010dd4148"), 
     "name" : "QX56", 
@@ -2053,7 +2054,7 @@
     "brand" : "Infiniti", 
     "created" : ISODate("2019-04-06T12:09:55.582+0000"), 
     "updated" : ISODate("2019-04-06T12:09:55.582+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897131ea0e60010dd4149"), 
     "name" : "QX60", 
@@ -2061,7 +2062,7 @@
     "brand" : "Infiniti", 
     "created" : ISODate("2019-04-06T12:09:55.582+0000"), 
     "updated" : ISODate("2019-04-06T12:09:55.582+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897131ea0e60010dd414a"), 
     "name" : "QX70", 
@@ -2069,7 +2070,7 @@
     "brand" : "Infiniti", 
     "created" : ISODate("2019-04-06T12:09:55.582+0000"), 
     "updated" : ISODate("2019-04-06T12:09:55.582+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897131ea0e60010dd414b"), 
     "name" : "QX80", 
@@ -2077,7 +2078,7 @@
     "brand" : "Infiniti", 
     "created" : ISODate("2019-04-06T12:09:55.582+0000"), 
     "updated" : ISODate("2019-04-06T12:09:55.582+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897141ea0e60010dd414c"), 
     "name" : "CJ", 
@@ -2085,7 +2086,7 @@
     "brand" : "Jeep", 
     "created" : ISODate("2019-04-06T12:09:56.454+0000"), 
     "updated" : ISODate("2019-04-06T12:09:56.454+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897141ea0e60010dd414d"), 
     "name" : "Cherokee", 
@@ -2093,7 +2094,7 @@
     "brand" : "Jeep", 
     "created" : ISODate("2019-04-06T12:09:56.454+0000"), 
     "updated" : ISODate("2019-04-06T12:09:56.454+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897141ea0e60010dd414e"), 
     "name" : "Commander", 
@@ -2101,7 +2102,7 @@
     "brand" : "Jeep", 
     "created" : ISODate("2019-04-06T12:09:56.454+0000"), 
     "updated" : ISODate("2019-04-06T12:09:56.454+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897141ea0e60010dd414f"), 
     "name" : "Compass", 
@@ -2109,7 +2110,7 @@
     "brand" : "Jeep", 
     "created" : ISODate("2019-04-06T12:09:56.454+0000"), 
     "updated" : ISODate("2019-04-06T12:09:56.454+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897141ea0e60010dd4150"), 
     "name" : "Grand Cherokee", 
@@ -2117,7 +2118,7 @@
     "brand" : "Jeep", 
     "created" : ISODate("2019-04-06T12:09:56.454+0000"), 
     "updated" : ISODate("2019-04-06T12:09:56.454+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897141ea0e60010dd4151"), 
     "name" : "Grand Wagoneer", 
@@ -2125,7 +2126,7 @@
     "brand" : "Jeep", 
     "created" : ISODate("2019-04-06T12:09:56.454+0000"), 
     "updated" : ISODate("2019-04-06T12:09:56.454+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897141ea0e60010dd4152"), 
     "name" : "Liberty (North America)", 
@@ -2133,7 +2134,7 @@
     "brand" : "Jeep", 
     "created" : ISODate("2019-04-06T12:09:56.454+0000"), 
     "updated" : ISODate("2019-04-06T12:09:56.454+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897141ea0e60010dd4153"), 
     "name" : "Liberty (Patriot)", 
@@ -2141,7 +2142,7 @@
     "brand" : "Jeep", 
     "created" : ISODate("2019-04-06T12:09:56.454+0000"), 
     "updated" : ISODate("2019-04-06T12:09:56.454+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897141ea0e60010dd4154"), 
     "name" : "Renegade", 
@@ -2149,7 +2150,7 @@
     "brand" : "Jeep", 
     "created" : ISODate("2019-04-06T12:09:56.454+0000"), 
     "updated" : ISODate("2019-04-06T12:09:56.454+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897141ea0e60010dd4155"), 
     "name" : "Wrangler", 
@@ -2157,7 +2158,7 @@
     "brand" : "Jeep", 
     "created" : ISODate("2019-04-06T12:09:56.454+0000"), 
     "updated" : ISODate("2019-04-06T12:09:56.454+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd4156"), 
     "name" : "Avella", 
@@ -2165,7 +2166,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.316+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.316+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd4157"), 
     "name" : "Cadenza", 
@@ -2173,7 +2174,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.316+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.316+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd4158"), 
     "name" : "Capital", 
@@ -2181,7 +2182,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.316+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.316+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd4159"), 
     "name" : "Carens", 
@@ -2189,7 +2190,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.316+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.316+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd415a"), 
     "name" : "Carnival", 
@@ -2197,7 +2198,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.316+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.316+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd415b"), 
     "name" : "Ceed", 
@@ -2205,7 +2206,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.316+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.316+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd415c"), 
     "name" : "Ceed GT", 
@@ -2213,7 +2214,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.316+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.316+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd415d"), 
     "name" : "Cerato", 
@@ -2221,7 +2222,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.316+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.316+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd415e"), 
     "name" : "Clarus", 
@@ -2229,7 +2230,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.316+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.316+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd415f"), 
     "name" : "Enterprise", 
@@ -2237,7 +2238,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.316+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.316+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd4160"), 
     "name" : "Forte", 
@@ -2245,7 +2246,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.316+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.316+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd4161"), 
     "name" : "Joice", 
@@ -2253,7 +2254,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.316+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.316+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd4162"), 
     "name" : "K5", 
@@ -2261,7 +2262,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.316+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.316+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd4163"), 
     "name" : "K7", 
@@ -2269,7 +2270,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.316+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.316+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd4164"), 
     "name" : "K900", 
@@ -2277,7 +2278,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.317+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.317+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd4165"), 
     "name" : "Magentis", 
@@ -2285,7 +2286,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.317+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.317+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd4166"), 
     "name" : "Mohave (Borrego)", 
@@ -2293,7 +2294,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.317+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.317+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd4167"), 
     "name" : "Opirus", 
@@ -2301,7 +2302,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.317+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.317+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd4168"), 
     "name" : "Optima", 
@@ -2309,7 +2310,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.317+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.317+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd4169"), 
     "name" : "Picanto", 
@@ -2317,7 +2318,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.317+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.317+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd416a"), 
     "name" : "Quoris", 
@@ -2325,7 +2326,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.317+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.317+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd416b"), 
     "name" : "Rio", 
@@ -2333,7 +2334,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.317+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.317+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd416c"), 
     "name" : "Sephia", 
@@ -2341,7 +2342,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.317+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.317+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd416d"), 
     "name" : "Shuma", 
@@ -2349,7 +2350,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.317+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.317+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd416e"), 
     "name" : "Sorento", 
@@ -2357,7 +2358,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.317+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.317+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd416f"), 
     "name" : "Soul", 
@@ -2365,7 +2366,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.317+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.317+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd4170"), 
     "name" : "Spectra", 
@@ -2373,7 +2374,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.317+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.317+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd4171"), 
     "name" : "Sportage", 
@@ -2381,7 +2382,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.317+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.317+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd4172"), 
     "name" : "Stinger", 
@@ -2389,7 +2390,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.317+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.317+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897151ea0e60010dd4173"), 
     "name" : "Venga", 
@@ -2397,7 +2398,7 @@
     "brand" : "Kia", 
     "created" : ISODate("2019-04-06T12:09:57.317+0000"), 
     "updated" : ISODate("2019-04-06T12:09:57.317+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd4174"), 
     "name" : "1111 Ока", 
@@ -2405,7 +2406,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.254+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.254+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd4175"), 
     "name" : "2101", 
@@ -2413,7 +2414,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.254+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.254+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd4176"), 
     "name" : "2102", 
@@ -2421,7 +2422,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.254+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.254+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd4177"), 
     "name" : "2103", 
@@ -2429,7 +2430,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.254+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.254+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd4178"), 
     "name" : "2104", 
@@ -2437,7 +2438,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.254+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.254+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd4179"), 
     "name" : "2105", 
@@ -2445,7 +2446,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd417a"), 
     "name" : "2106", 
@@ -2453,7 +2454,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd417b"), 
     "name" : "2107", 
@@ -2461,7 +2462,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd417c"), 
     "name" : "2108", 
@@ -2469,7 +2470,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd417d"), 
     "name" : "2109", 
@@ -2477,7 +2478,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd417e"), 
     "name" : "21099", 
@@ -2485,7 +2486,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd417f"), 
     "name" : "2110", 
@@ -2493,7 +2494,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd4180"), 
     "name" : "2111", 
@@ -2501,7 +2502,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd4181"), 
     "name" : "2112", 
@@ -2509,7 +2510,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd4182"), 
     "name" : "2113", 
@@ -2517,7 +2518,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd4183"), 
     "name" : "2114", 
@@ -2525,7 +2526,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd4184"), 
     "name" : "2115", 
@@ -2533,7 +2534,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd4185"), 
     "name" : "2120 Надежда", 
@@ -2541,7 +2542,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd4186"), 
     "name" : "2121 (4x4)", 
@@ -2549,7 +2550,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd4187"), 
     "name" : "2123", 
@@ -2557,7 +2558,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd4188"), 
     "name" : "2129", 
@@ -2565,7 +2566,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd4189"), 
     "name" : "2131 (4x4)", 
@@ -2573,7 +2574,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd418a"), 
     "name" : "2329", 
@@ -2581,7 +2582,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd418b"), 
     "name" : "EL Lada", 
@@ -2589,7 +2590,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd418c"), 
     "name" : "Granta", 
@@ -2597,7 +2598,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd418d"), 
     "name" : "Kalina", 
@@ -2605,7 +2606,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd418e"), 
     "name" : "Largus", 
@@ -2613,7 +2614,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd418f"), 
     "name" : "Priora", 
@@ -2621,7 +2622,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd4190"), 
     "name" : "Vesta", 
@@ -2629,7 +2630,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897161ea0e60010dd4191"), 
     "name" : "XRAY", 
@@ -2637,7 +2638,7 @@
     "brand" : "LADA (ВАЗ)", 
     "created" : ISODate("2019-04-06T12:09:58.255+0000"), 
     "updated" : ISODate("2019-04-06T12:09:58.255+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897171ea0e60010dd4192"), 
     "name" : "Defender", 
@@ -2645,7 +2646,7 @@
     "brand" : "Land Rover", 
     "created" : ISODate("2019-04-06T12:09:59.311+0000"), 
     "updated" : ISODate("2019-04-06T12:09:59.311+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897171ea0e60010dd4193"), 
     "name" : "Discovery", 
@@ -2653,7 +2654,7 @@
     "brand" : "Land Rover", 
     "created" : ISODate("2019-04-06T12:09:59.311+0000"), 
     "updated" : ISODate("2019-04-06T12:09:59.311+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897171ea0e60010dd4194"), 
     "name" : "Discovery Sport", 
@@ -2661,7 +2662,7 @@
     "brand" : "Land Rover", 
     "created" : ISODate("2019-04-06T12:09:59.311+0000"), 
     "updated" : ISODate("2019-04-06T12:09:59.311+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897171ea0e60010dd4195"), 
     "name" : "Freelander", 
@@ -2669,7 +2670,7 @@
     "brand" : "Land Rover", 
     "created" : ISODate("2019-04-06T12:09:59.311+0000"), 
     "updated" : ISODate("2019-04-06T12:09:59.311+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897171ea0e60010dd4196"), 
     "name" : "Range Rover", 
@@ -2677,7 +2678,7 @@
     "brand" : "Land Rover", 
     "created" : ISODate("2019-04-06T12:09:59.311+0000"), 
     "updated" : ISODate("2019-04-06T12:09:59.311+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897171ea0e60010dd4197"), 
     "name" : "Range Rover Evoque", 
@@ -2685,7 +2686,7 @@
     "brand" : "Land Rover", 
     "created" : ISODate("2019-04-06T12:09:59.311+0000"), 
     "updated" : ISODate("2019-04-06T12:09:59.311+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897171ea0e60010dd4198"), 
     "name" : "Range Rover Sport", 
@@ -2693,7 +2694,7 @@
     "brand" : "Land Rover", 
     "created" : ISODate("2019-04-06T12:09:59.311+0000"), 
     "updated" : ISODate("2019-04-06T12:09:59.311+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897171ea0e60010dd4199"), 
     "name" : "Range Rover Velar", 
@@ -2701,7 +2702,7 @@
     "brand" : "Land Rover", 
     "created" : ISODate("2019-04-06T12:09:59.311+0000"), 
     "updated" : ISODate("2019-04-06T12:09:59.311+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897171ea0e60010dd419a"), 
     "name" : "Series I", 
@@ -2709,7 +2710,7 @@
     "brand" : "Land Rover", 
     "created" : ISODate("2019-04-06T12:09:59.311+0000"), 
     "updated" : ISODate("2019-04-06T12:09:59.311+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897171ea0e60010dd419b"), 
     "name" : "Series II", 
@@ -2717,7 +2718,7 @@
     "brand" : "Land Rover", 
     "created" : ISODate("2019-04-06T12:09:59.311+0000"), 
     "updated" : ISODate("2019-04-06T12:09:59.311+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897171ea0e60010dd419c"), 
     "name" : "Series III", 
@@ -2725,7 +2726,7 @@
     "brand" : "Land Rover", 
     "created" : ISODate("2019-04-06T12:09:59.311+0000"), 
     "updated" : ISODate("2019-04-06T12:09:59.311+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897181ea0e60010dd419d"), 
     "name" : "CT", 
@@ -2733,7 +2734,7 @@
     "brand" : "Lexus", 
     "created" : ISODate("2019-04-06T12:10:00.272+0000"), 
     "updated" : ISODate("2019-04-06T12:10:00.272+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897181ea0e60010dd419e"), 
     "name" : "ES", 
@@ -2741,7 +2742,7 @@
     "brand" : "Lexus", 
     "created" : ISODate("2019-04-06T12:10:00.272+0000"), 
     "updated" : ISODate("2019-04-06T12:10:00.272+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897181ea0e60010dd419f"), 
     "name" : "GS", 
@@ -2749,7 +2750,7 @@
     "brand" : "Lexus", 
     "created" : ISODate("2019-04-06T12:10:00.272+0000"), 
     "updated" : ISODate("2019-04-06T12:10:00.272+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897181ea0e60010dd41a0"), 
     "name" : "GS F", 
@@ -2757,7 +2758,7 @@
     "brand" : "Lexus", 
     "created" : ISODate("2019-04-06T12:10:00.272+0000"), 
     "updated" : ISODate("2019-04-06T12:10:00.272+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897181ea0e60010dd41a1"), 
     "name" : "GX", 
@@ -2765,7 +2766,7 @@
     "brand" : "Lexus", 
     "created" : ISODate("2019-04-06T12:10:00.272+0000"), 
     "updated" : ISODate("2019-04-06T12:10:00.272+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897181ea0e60010dd41a2"), 
     "name" : "HS", 
@@ -2773,7 +2774,7 @@
     "brand" : "Lexus", 
     "created" : ISODate("2019-04-06T12:10:00.272+0000"), 
     "updated" : ISODate("2019-04-06T12:10:00.272+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897181ea0e60010dd41a3"), 
     "name" : "IS", 
@@ -2781,7 +2782,7 @@
     "brand" : "Lexus", 
     "created" : ISODate("2019-04-06T12:10:00.272+0000"), 
     "updated" : ISODate("2019-04-06T12:10:00.272+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897181ea0e60010dd41a4"), 
     "name" : "IS F", 
@@ -2789,7 +2790,7 @@
     "brand" : "Lexus", 
     "created" : ISODate("2019-04-06T12:10:00.272+0000"), 
     "updated" : ISODate("2019-04-06T12:10:00.272+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897181ea0e60010dd41a5"), 
     "name" : "LC", 
@@ -2797,7 +2798,7 @@
     "brand" : "Lexus", 
     "created" : ISODate("2019-04-06T12:10:00.272+0000"), 
     "updated" : ISODate("2019-04-06T12:10:00.272+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897181ea0e60010dd41a6"), 
     "name" : "LFA", 
@@ -2805,7 +2806,7 @@
     "brand" : "Lexus", 
     "created" : ISODate("2019-04-06T12:10:00.272+0000"), 
     "updated" : ISODate("2019-04-06T12:10:00.272+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897181ea0e60010dd41a7"), 
     "name" : "LS", 
@@ -2813,7 +2814,7 @@
     "brand" : "Lexus", 
     "created" : ISODate("2019-04-06T12:10:00.272+0000"), 
     "updated" : ISODate("2019-04-06T12:10:00.272+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897181ea0e60010dd41a8"), 
     "name" : "LX", 
@@ -2821,7 +2822,7 @@
     "brand" : "Lexus", 
     "created" : ISODate("2019-04-06T12:10:00.272+0000"), 
     "updated" : ISODate("2019-04-06T12:10:00.272+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897181ea0e60010dd41a9"), 
     "name" : "NX", 
@@ -2829,7 +2830,7 @@
     "brand" : "Lexus", 
     "created" : ISODate("2019-04-06T12:10:00.272+0000"), 
     "updated" : ISODate("2019-04-06T12:10:00.272+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897181ea0e60010dd41aa"), 
     "name" : "RC", 
@@ -2837,7 +2838,7 @@
     "brand" : "Lexus", 
     "created" : ISODate("2019-04-06T12:10:00.272+0000"), 
     "updated" : ISODate("2019-04-06T12:10:00.272+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897181ea0e60010dd41ab"), 
     "name" : "RC F", 
@@ -2845,7 +2846,7 @@
     "brand" : "Lexus", 
     "created" : ISODate("2019-04-06T12:10:00.272+0000"), 
     "updated" : ISODate("2019-04-06T12:10:00.272+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897181ea0e60010dd41ac"), 
     "name" : "RX", 
@@ -2853,7 +2854,7 @@
     "brand" : "Lexus", 
     "created" : ISODate("2019-04-06T12:10:00.272+0000"), 
     "updated" : ISODate("2019-04-06T12:10:00.272+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897181ea0e60010dd41ad"), 
     "name" : "SC", 
@@ -2861,7 +2862,7 @@
     "brand" : "Lexus", 
     "created" : ISODate("2019-04-06T12:10:00.272+0000"), 
     "updated" : ISODate("2019-04-06T12:10:00.272+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897181ea0e60010dd41ae"), 
     "name" : "UX", 
@@ -2869,7 +2870,7 @@
     "brand" : "Lexus", 
     "created" : ISODate("2019-04-06T12:10:00.272+0000"), 
     "updated" : ISODate("2019-04-06T12:10:00.272+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41af"), 
     "name" : "2", 
@@ -2877,7 +2878,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.456+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.456+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41b0"), 
     "name" : "3", 
@@ -2885,7 +2886,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.456+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.456+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41b1"), 
     "name" : "3 MPS", 
@@ -2893,7 +2894,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.456+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.456+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41b2"), 
     "name" : "323", 
@@ -2901,7 +2902,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.456+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.456+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41b3"), 
     "name" : "5", 
@@ -2909,7 +2910,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.456+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.456+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41b4"), 
     "name" : "6", 
@@ -2917,7 +2918,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.464+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.464+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41b5"), 
     "name" : "6 MPS", 
@@ -2925,7 +2926,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.464+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.464+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41b6"), 
     "name" : "626", 
@@ -2933,7 +2934,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.464+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.464+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41b7"), 
     "name" : "929", 
@@ -2941,7 +2942,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.464+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.464+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41b8"), 
     "name" : "Atenza", 
@@ -2949,7 +2950,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.464+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.464+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41b9"), 
     "name" : "B-series", 
@@ -2957,7 +2958,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.464+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.464+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41ba"), 
     "name" : "BT-50", 
@@ -2965,7 +2966,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.464+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.464+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41bb"), 
     "name" : "Biante", 
@@ -2973,7 +2974,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.464+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.464+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41bc"), 
     "name" : "Bongo", 
@@ -2981,7 +2982,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.464+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.464+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41bd"), 
     "name" : "Bongo Friendee", 
@@ -2989,7 +2990,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.465+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.465+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41be"), 
     "name" : "CX-5", 
@@ -2997,7 +2998,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.465+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.465+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41bf"), 
     "name" : "CX-7", 
@@ -3005,7 +3006,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.465+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.465+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41c0"), 
     "name" : "CX-9", 
@@ -3013,7 +3014,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.465+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.465+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41c1"), 
     "name" : "Capella", 
@@ -3021,7 +3022,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.465+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.465+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41c2"), 
     "name" : "Demio", 
@@ -3029,7 +3030,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.465+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.465+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41c3"), 
     "name" : "Familia", 
@@ -3037,7 +3038,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.465+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.465+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41c4"), 
     "name" : "MPV", 
@@ -3045,7 +3046,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.465+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.465+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41c5"), 
     "name" : "MX-3", 
@@ -3053,7 +3054,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.465+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.465+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41c6"), 
     "name" : "MX-5", 
@@ -3061,7 +3062,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.465+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.465+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41c7"), 
     "name" : "Millenia", 
@@ -3069,7 +3070,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.465+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.465+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41c8"), 
     "name" : "Premacy", 
@@ -3077,7 +3078,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.465+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.465+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41c9"), 
     "name" : "Protege", 
@@ -3085,7 +3086,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.465+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.465+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41ca"), 
     "name" : "RX-8", 
@@ -3093,7 +3094,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.465+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.465+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41cb"), 
     "name" : "Tribute", 
@@ -3101,7 +3102,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.465+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.465+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897191ea0e60010dd41cc"), 
     "name" : "Xedos 6", 
@@ -3109,7 +3110,7 @@
     "brand" : "Mazda", 
     "created" : ISODate("2019-04-06T12:10:01.465+0000"), 
     "updated" : ISODate("2019-04-06T12:10:01.465+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41cd"), 
     "name" : "A-klasse", 
@@ -3117,7 +3118,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41ce"), 
     "name" : "B-klasse", 
@@ -3125,7 +3126,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41cf"), 
     "name" : "C-klasse", 
@@ -3133,7 +3134,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41d0"), 
     "name" : "C-klasse AMG", 
@@ -3141,7 +3142,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41d1"), 
     "name" : "CL-klasse", 
@@ -3149,7 +3150,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41d2"), 
     "name" : "CLA-klasse", 
@@ -3157,7 +3158,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41d3"), 
     "name" : "CLS-klasse", 
@@ -3165,7 +3166,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41d4"), 
     "name" : "E-klasse", 
@@ -3173,7 +3174,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41d5"), 
     "name" : "E-klasse AMG", 
@@ -3181,7 +3182,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41d6"), 
     "name" : "G-klasse", 
@@ -3189,7 +3190,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41d7"), 
     "name" : "G-klasse AMG", 
@@ -3197,7 +3198,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41d8"), 
     "name" : "GL-klasse", 
@@ -3205,7 +3206,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41d9"), 
     "name" : "GLA-klasse", 
@@ -3213,7 +3214,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41da"), 
     "name" : "GLC", 
@@ -3221,7 +3222,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41db"), 
     "name" : "GLC Coupe", 
@@ -3229,7 +3230,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41dc"), 
     "name" : "GLE", 
@@ -3237,7 +3238,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41dd"), 
     "name" : "GLE Coupe", 
@@ -3245,7 +3246,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41de"), 
     "name" : "GLE Coupe AMG", 
@@ -3253,7 +3254,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41df"), 
     "name" : "GLK-klasse", 
@@ -3261,7 +3262,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41e0"), 
     "name" : "GLS-klasse", 
@@ -3269,7 +3270,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41e1"), 
     "name" : "GLS-klasse AMG", 
@@ -3277,7 +3278,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41e2"), 
     "name" : "M-klasse", 
@@ -3285,7 +3286,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41e3"), 
     "name" : "Maybach S-klasse", 
@@ -3293,7 +3294,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41e4"), 
     "name" : "S-klasse", 
@@ -3301,7 +3302,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41e5"), 
     "name" : "S-klasse AMG", 
@@ -3309,7 +3310,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41e6"), 
     "name" : "V-klasse", 
@@ -3317,7 +3318,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41e7"), 
     "name" : "Viano", 
@@ -3325,7 +3326,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41e8"), 
     "name" : "Vito", 
@@ -3333,7 +3334,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41e9"), 
     "name" : "W124", 
@@ -3341,7 +3342,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971a1ea0e60010dd41ea"), 
     "name" : "X-klasse", 
@@ -3349,7 +3350,7 @@
     "brand" : "Mercedes-Benz", 
     "created" : ISODate("2019-04-06T12:10:02.462+0000"), 
     "updated" : ISODate("2019-04-06T12:10:02.462+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd41eb"), 
     "name" : "3000 GT", 
@@ -3357,7 +3358,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.362+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.362+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd41ec"), 
     "name" : "ASX", 
@@ -3365,7 +3366,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.362+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.362+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd41ed"), 
     "name" : "Airtrek", 
@@ -3373,7 +3374,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.362+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.362+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd41ee"), 
     "name" : "Carisma", 
@@ -3381,7 +3382,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.362+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.362+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd41ef"), 
     "name" : "Chariot", 
@@ -3389,7 +3390,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.362+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.362+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd41f0"), 
     "name" : "Colt", 
@@ -3397,7 +3398,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.362+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.362+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd41f1"), 
     "name" : "Delica", 
@@ -3405,7 +3406,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.362+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.362+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd41f2"), 
     "name" : "Diamante", 
@@ -3413,7 +3414,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.362+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.362+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd41f3"), 
     "name" : "Dingo", 
@@ -3421,7 +3422,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.362+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.362+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd41f4"), 
     "name" : "Dion", 
@@ -3429,7 +3430,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.363+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.363+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd41f5"), 
     "name" : "Eclipse", 
@@ -3437,7 +3438,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.363+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.363+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd41f6"), 
     "name" : "Eclipse Cross", 
@@ -3445,7 +3446,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.363+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.363+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd41f7"), 
     "name" : "Galant", 
@@ -3453,7 +3454,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.363+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.363+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd41f8"), 
     "name" : "Grandis", 
@@ -3461,7 +3462,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.363+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.363+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd41f9"), 
     "name" : "L200", 
@@ -3469,7 +3470,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.363+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.363+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd41fa"), 
     "name" : "Lancer", 
@@ -3477,7 +3478,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.363+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.363+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd41fb"), 
     "name" : "Lancer Evolution", 
@@ -3485,7 +3486,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.363+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.363+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd41fc"), 
     "name" : "Legnum", 
@@ -3493,7 +3494,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.363+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.363+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd41fd"), 
     "name" : "Mirage", 
@@ -3501,7 +3502,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.363+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.363+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd41fe"), 
     "name" : "Montero", 
@@ -3509,7 +3510,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.363+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.363+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd41ff"), 
     "name" : "Montero Sport", 
@@ -3517,7 +3518,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.363+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.363+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd4200"), 
     "name" : "Outlander", 
@@ -3525,7 +3526,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.363+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.363+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd4201"), 
     "name" : "Pajero", 
@@ -3533,7 +3534,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.363+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.363+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd4202"), 
     "name" : "Pajero Mini", 
@@ -3541,7 +3542,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.363+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.363+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd4203"), 
     "name" : "Pajero Pinin", 
@@ -3549,7 +3550,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.363+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.363+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd4204"), 
     "name" : "Pajero Sport", 
@@ -3557,7 +3558,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.363+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.363+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd4205"), 
     "name" : "Pajero iO", 
@@ -3565,7 +3566,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.363+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.363+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd4206"), 
     "name" : "RVR", 
@@ -3573,7 +3574,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.363+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.363+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd4207"), 
     "name" : "Space Star", 
@@ -3581,7 +3582,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.363+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.363+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971b1ea0e60010dd4208"), 
     "name" : "Space Wagon", 
@@ -3589,7 +3590,7 @@
     "brand" : "Mitsubishi", 
     "created" : ISODate("2019-04-06T12:10:03.363+0000"), 
     "updated" : ISODate("2019-04-06T12:10:03.363+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd4209"), 
     "name" : "Almera", 
@@ -3597,7 +3598,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.231+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.231+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd420a"), 
     "name" : "Almera Classic", 
@@ -3605,7 +3606,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.231+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.231+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd420b"), 
     "name" : "Armada", 
@@ -3613,7 +3614,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.231+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.231+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd420c"), 
     "name" : "Cedric", 
@@ -3621,7 +3622,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.231+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.231+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd420d"), 
     "name" : "Cefiro", 
@@ -3629,7 +3630,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.231+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.231+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd420e"), 
     "name" : "Cube", 
@@ -3637,7 +3638,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.231+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.231+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd420f"), 
     "name" : "Elgrand", 
@@ -3645,7 +3646,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.231+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.231+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd4210"), 
     "name" : "GT-R", 
@@ -3653,7 +3654,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.231+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.231+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd4211"), 
     "name" : "Juke", 
@@ -3661,7 +3662,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.231+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.231+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd4212"), 
     "name" : "Leaf", 
@@ -3669,7 +3670,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.231+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.231+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd4213"), 
     "name" : "Liberty", 
@@ -3677,7 +3678,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.231+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.231+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd4214"), 
     "name" : "Maxima", 
@@ -3685,7 +3686,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.231+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.231+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd4215"), 
     "name" : "Micra", 
@@ -3693,7 +3694,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.231+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.231+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd4216"), 
     "name" : "Murano", 
@@ -3701,7 +3702,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.231+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.231+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd4217"), 
     "name" : "Navara (Frontier)", 
@@ -3709,7 +3710,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.231+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.231+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd4218"), 
     "name" : "Note", 
@@ -3717,7 +3718,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.231+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.231+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd4219"), 
     "name" : "Pathfinder", 
@@ -3725,7 +3726,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.231+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.231+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd421a"), 
     "name" : "Patrol", 
@@ -3733,7 +3734,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.231+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.231+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd421b"), 
     "name" : "Primera", 
@@ -3741,7 +3742,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.231+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.231+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd421c"), 
     "name" : "Qashqai", 
@@ -3749,7 +3750,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.231+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.231+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd421d"), 
     "name" : "Qashqai+2", 
@@ -3757,7 +3758,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.231+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.231+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd421e"), 
     "name" : "Sentra", 
@@ -3765,7 +3766,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.231+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.231+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd421f"), 
     "name" : "Serena", 
@@ -3773,7 +3774,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.231+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.231+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd4220"), 
     "name" : "Skyline", 
@@ -3781,7 +3782,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.232+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.232+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd4221"), 
     "name" : "Sunny", 
@@ -3789,7 +3790,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.232+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.232+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd4222"), 
     "name" : "Teana", 
@@ -3797,7 +3798,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.232+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.232+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd4223"), 
     "name" : "Terrano", 
@@ -3805,7 +3806,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.232+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.232+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd4224"), 
     "name" : "Tiida", 
@@ -3813,7 +3814,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.232+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.232+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd4225"), 
     "name" : "Wingroad", 
@@ -3821,7 +3822,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.232+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.232+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971c1ea0e60010dd4226"), 
     "name" : "X-Trail", 
@@ -3829,7 +3830,7 @@
     "brand" : "Nissan", 
     "created" : ISODate("2019-04-06T12:10:04.232+0000"), 
     "updated" : ISODate("2019-04-06T12:10:04.232+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd4227"), 
     "name" : "Adam", 
@@ -3837,7 +3838,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.143+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.143+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd4228"), 
     "name" : "Admiral", 
@@ -3845,7 +3846,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.143+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.143+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd4229"), 
     "name" : "Agila", 
@@ -3853,7 +3854,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.143+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.143+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd422a"), 
     "name" : "Antara", 
@@ -3861,7 +3862,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.143+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.143+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd422b"), 
     "name" : "Ascona", 
@@ -3869,7 +3870,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.143+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.143+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd422c"), 
     "name" : "Astra", 
@@ -3877,7 +3878,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.143+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.143+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd422d"), 
     "name" : "Astra OPC", 
@@ -3885,7 +3886,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.143+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.143+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd422e"), 
     "name" : "Calibra", 
@@ -3893,7 +3894,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.143+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.143+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd422f"), 
     "name" : "Combo", 
@@ -3901,7 +3902,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.143+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.143+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd4230"), 
     "name" : "Corsa", 
@@ -3909,7 +3910,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.143+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.143+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd4231"), 
     "name" : "Corsa OPC", 
@@ -3917,7 +3918,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.143+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.143+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd4232"), 
     "name" : "Frontera", 
@@ -3925,7 +3926,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.143+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.143+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd4233"), 
     "name" : "Insignia", 
@@ -3933,7 +3934,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.143+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.143+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd4234"), 
     "name" : "Insignia OPC", 
@@ -3941,7 +3942,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.143+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.143+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd4235"), 
     "name" : "Kadett", 
@@ -3949,7 +3950,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.143+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.143+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd4236"), 
     "name" : "Meriva", 
@@ -3957,7 +3958,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.143+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.143+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd4237"), 
     "name" : "Mokka", 
@@ -3965,7 +3966,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.143+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.143+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd4238"), 
     "name" : "Monterey", 
@@ -3973,7 +3974,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.143+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.143+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd4239"), 
     "name" : "Olympia", 
@@ -3981,7 +3982,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.143+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.143+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd423a"), 
     "name" : "Omega", 
@@ -3989,7 +3990,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.143+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.143+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd423b"), 
     "name" : "Rekord", 
@@ -3997,7 +3998,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.143+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.143+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd423c"), 
     "name" : "Senator", 
@@ -4005,7 +4006,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.143+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.143+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd423d"), 
     "name" : "Signum", 
@@ -4013,7 +4014,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.144+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.144+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd423e"), 
     "name" : "Sintra", 
@@ -4021,7 +4022,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.144+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.144+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd423f"), 
     "name" : "Tigra", 
@@ -4029,7 +4030,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.144+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.144+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd4240"), 
     "name" : "Vectra", 
@@ -4037,7 +4038,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.144+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.144+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd4241"), 
     "name" : "Vectra OPC", 
@@ -4045,7 +4046,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.144+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.144+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd4242"), 
     "name" : "Vita", 
@@ -4053,7 +4054,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.144+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.144+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd4243"), 
     "name" : "Vivaro", 
@@ -4061,7 +4062,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.144+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.144+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971d1ea0e60010dd4244"), 
     "name" : "Zafira", 
@@ -4069,7 +4070,7 @@
     "brand" : "Opel", 
     "created" : ISODate("2019-04-06T12:10:05.144+0000"), 
     "updated" : ISODate("2019-04-06T12:10:05.144+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd4245"), 
     "name" : "1007", 
@@ -4077,7 +4078,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.449+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.449+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd4246"), 
     "name" : "104", 
@@ -4085,7 +4086,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.449+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.449+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd4247"), 
     "name" : "106", 
@@ -4093,7 +4094,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.449+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.449+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd4248"), 
     "name" : "107", 
@@ -4101,7 +4102,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.449+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.449+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd4249"), 
     "name" : "2008", 
@@ -4109,7 +4110,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.449+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.449+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd424a"), 
     "name" : "206", 
@@ -4117,7 +4118,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.449+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.449+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd424b"), 
     "name" : "207", 
@@ -4125,7 +4126,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.449+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.449+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd424c"), 
     "name" : "208", 
@@ -4133,7 +4134,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.449+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.449+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd424d"), 
     "name" : "208 GTi", 
@@ -4141,7 +4142,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.449+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.449+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd424e"), 
     "name" : "3008", 
@@ -4149,7 +4150,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.449+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.449+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd424f"), 
     "name" : "301", 
@@ -4157,7 +4158,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.449+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.449+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd4250"), 
     "name" : "306", 
@@ -4165,7 +4166,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.449+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.449+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd4251"), 
     "name" : "307", 
@@ -4173,7 +4174,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.449+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.449+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd4252"), 
     "name" : "308", 
@@ -4181,7 +4182,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.449+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.449+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd4253"), 
     "name" : "4007", 
@@ -4189,7 +4190,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.449+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.449+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd4254"), 
     "name" : "4008", 
@@ -4197,7 +4198,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.449+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.449+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd4255"), 
     "name" : "405", 
@@ -4205,7 +4206,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.449+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.449+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd4256"), 
     "name" : "406", 
@@ -4213,7 +4214,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.449+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.449+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd4257"), 
     "name" : "407", 
@@ -4221,7 +4222,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.449+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.449+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd4258"), 
     "name" : "408", 
@@ -4229,7 +4230,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.449+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.449+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd4259"), 
     "name" : "5008", 
@@ -4237,7 +4238,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.449+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.449+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd425a"), 
     "name" : "508", 
@@ -4245,7 +4246,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.449+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.449+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd425b"), 
     "name" : "605", 
@@ -4253,7 +4254,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.449+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.449+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd425c"), 
     "name" : "607", 
@@ -4261,7 +4262,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.450+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.450+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd425d"), 
     "name" : "806", 
@@ -4269,7 +4270,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.450+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.450+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd425e"), 
     "name" : "807", 
@@ -4277,7 +4278,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.450+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.450+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd425f"), 
     "name" : "Expert", 
@@ -4285,7 +4286,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.450+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.450+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd4260"), 
     "name" : "Partner", 
@@ -4293,7 +4294,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.450+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.450+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd4261"), 
     "name" : "RCZ", 
@@ -4301,7 +4302,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.450+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.450+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971e1ea0e60010dd4262"), 
     "name" : "Traveller", 
@@ -4309,7 +4310,7 @@
     "brand" : "Peugeot", 
     "created" : ISODate("2019-04-06T12:10:06.450+0000"), 
     "updated" : ISODate("2019-04-06T12:10:06.450+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971f1ea0e60010dd4263"), 
     "name" : "356", 
@@ -4317,7 +4318,7 @@
     "brand" : "Porsche", 
     "created" : ISODate("2019-04-06T12:10:07.205+0000"), 
     "updated" : ISODate("2019-04-06T12:10:07.205+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971f1ea0e60010dd4264"), 
     "name" : "718 Boxster", 
@@ -4325,7 +4326,7 @@
     "brand" : "Porsche", 
     "created" : ISODate("2019-04-06T12:10:07.205+0000"), 
     "updated" : ISODate("2019-04-06T12:10:07.205+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971f1ea0e60010dd4265"), 
     "name" : "718 Cayman", 
@@ -4333,7 +4334,7 @@
     "brand" : "Porsche", 
     "created" : ISODate("2019-04-06T12:10:07.205+0000"), 
     "updated" : ISODate("2019-04-06T12:10:07.205+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971f1ea0e60010dd4266"), 
     "name" : "911", 
@@ -4341,7 +4342,7 @@
     "brand" : "Porsche", 
     "created" : ISODate("2019-04-06T12:10:07.205+0000"), 
     "updated" : ISODate("2019-04-06T12:10:07.205+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971f1ea0e60010dd4267"), 
     "name" : "911 GT2", 
@@ -4349,7 +4350,7 @@
     "brand" : "Porsche", 
     "created" : ISODate("2019-04-06T12:10:07.205+0000"), 
     "updated" : ISODate("2019-04-06T12:10:07.205+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971f1ea0e60010dd4268"), 
     "name" : "911 GT3", 
@@ -4357,7 +4358,7 @@
     "brand" : "Porsche", 
     "created" : ISODate("2019-04-06T12:10:07.205+0000"), 
     "updated" : ISODate("2019-04-06T12:10:07.205+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971f1ea0e60010dd4269"), 
     "name" : "911 R", 
@@ -4365,7 +4366,7 @@
     "brand" : "Porsche", 
     "created" : ISODate("2019-04-06T12:10:07.205+0000"), 
     "updated" : ISODate("2019-04-06T12:10:07.205+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971f1ea0e60010dd426a"), 
     "name" : "912", 
@@ -4373,7 +4374,7 @@
     "brand" : "Porsche", 
     "created" : ISODate("2019-04-06T12:10:07.205+0000"), 
     "updated" : ISODate("2019-04-06T12:10:07.205+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971f1ea0e60010dd426b"), 
     "name" : "914", 
@@ -4381,7 +4382,7 @@
     "brand" : "Porsche", 
     "created" : ISODate("2019-04-06T12:10:07.205+0000"), 
     "updated" : ISODate("2019-04-06T12:10:07.205+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971f1ea0e60010dd426c"), 
     "name" : "918 Spyder", 
@@ -4389,7 +4390,7 @@
     "brand" : "Porsche", 
     "created" : ISODate("2019-04-06T12:10:07.205+0000"), 
     "updated" : ISODate("2019-04-06T12:10:07.205+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971f1ea0e60010dd426d"), 
     "name" : "924", 
@@ -4397,7 +4398,7 @@
     "brand" : "Porsche", 
     "created" : ISODate("2019-04-06T12:10:07.205+0000"), 
     "updated" : ISODate("2019-04-06T12:10:07.205+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971f1ea0e60010dd426e"), 
     "name" : "928", 
@@ -4405,7 +4406,7 @@
     "brand" : "Porsche", 
     "created" : ISODate("2019-04-06T12:10:07.205+0000"), 
     "updated" : ISODate("2019-04-06T12:10:07.205+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971f1ea0e60010dd426f"), 
     "name" : "944", 
@@ -4413,7 +4414,7 @@
     "brand" : "Porsche", 
     "created" : ISODate("2019-04-06T12:10:07.205+0000"), 
     "updated" : ISODate("2019-04-06T12:10:07.205+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971f1ea0e60010dd4270"), 
     "name" : "959", 
@@ -4421,7 +4422,7 @@
     "brand" : "Porsche", 
     "created" : ISODate("2019-04-06T12:10:07.205+0000"), 
     "updated" : ISODate("2019-04-06T12:10:07.205+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971f1ea0e60010dd4271"), 
     "name" : "968", 
@@ -4429,7 +4430,7 @@
     "brand" : "Porsche", 
     "created" : ISODate("2019-04-06T12:10:07.205+0000"), 
     "updated" : ISODate("2019-04-06T12:10:07.205+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971f1ea0e60010dd4272"), 
     "name" : "Boxster", 
@@ -4437,7 +4438,7 @@
     "brand" : "Porsche", 
     "created" : ISODate("2019-04-06T12:10:07.205+0000"), 
     "updated" : ISODate("2019-04-06T12:10:07.205+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971f1ea0e60010dd4273"), 
     "name" : "Carrera GT", 
@@ -4445,7 +4446,7 @@
     "brand" : "Porsche", 
     "created" : ISODate("2019-04-06T12:10:07.205+0000"), 
     "updated" : ISODate("2019-04-06T12:10:07.205+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971f1ea0e60010dd4274"), 
     "name" : "Cayenne", 
@@ -4453,7 +4454,7 @@
     "brand" : "Porsche", 
     "created" : ISODate("2019-04-06T12:10:07.205+0000"), 
     "updated" : ISODate("2019-04-06T12:10:07.205+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971f1ea0e60010dd4275"), 
     "name" : "Cayman", 
@@ -4461,7 +4462,7 @@
     "brand" : "Porsche", 
     "created" : ISODate("2019-04-06T12:10:07.205+0000"), 
     "updated" : ISODate("2019-04-06T12:10:07.205+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971f1ea0e60010dd4276"), 
     "name" : "Cayman GT4", 
@@ -4469,7 +4470,7 @@
     "brand" : "Porsche", 
     "created" : ISODate("2019-04-06T12:10:07.205+0000"), 
     "updated" : ISODate("2019-04-06T12:10:07.205+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971f1ea0e60010dd4277"), 
     "name" : "Macan", 
@@ -4477,7 +4478,7 @@
     "brand" : "Porsche", 
     "created" : ISODate("2019-04-06T12:10:07.205+0000"), 
     "updated" : ISODate("2019-04-06T12:10:07.205+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca8971f1ea0e60010dd4278"), 
     "name" : "Panamera", 
@@ -4485,7 +4486,7 @@
     "brand" : "Porsche", 
     "created" : ISODate("2019-04-06T12:10:07.205+0000"), 
     "updated" : ISODate("2019-04-06T12:10:07.205+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd4279"), 
     "name" : "10", 
@@ -4493,7 +4494,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd427a"), 
     "name" : "11", 
@@ -4501,7 +4502,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd427b"), 
     "name" : "12", 
@@ -4509,7 +4510,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd427c"), 
     "name" : "14", 
@@ -4517,7 +4518,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd427d"), 
     "name" : "19", 
@@ -4525,7 +4526,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd427e"), 
     "name" : "9", 
@@ -4533,7 +4534,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd427f"), 
     "name" : "Avantime", 
@@ -4541,7 +4542,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd4280"), 
     "name" : "Clio", 
@@ -4549,7 +4550,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd4281"), 
     "name" : "Clio RS", 
@@ -4557,7 +4558,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd4282"), 
     "name" : "Dokker", 
@@ -4565,7 +4566,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd4283"), 
     "name" : "Duster", 
@@ -4573,7 +4574,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd4284"), 
     "name" : "Espace", 
@@ -4581,7 +4582,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd4285"), 
     "name" : "Fluence", 
@@ -4589,7 +4590,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd4286"), 
     "name" : "Kangoo", 
@@ -4597,7 +4598,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd4287"), 
     "name" : "Kaptur", 
@@ -4605,7 +4606,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd4288"), 
     "name" : "Koleos", 
@@ -4613,7 +4614,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd4289"), 
     "name" : "Laguna", 
@@ -4621,7 +4622,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd428a"), 
     "name" : "Latitude", 
@@ -4629,7 +4630,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd428b"), 
     "name" : "Logan", 
@@ -4637,7 +4638,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd428c"), 
     "name" : "Megane", 
@@ -4645,7 +4646,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd428d"), 
     "name" : "Megane RS", 
@@ -4653,7 +4654,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd428e"), 
     "name" : "Modus", 
@@ -4661,7 +4662,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd428f"), 
     "name" : "Safrane", 
@@ -4669,7 +4670,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd4290"), 
     "name" : "Sandero", 
@@ -4677,7 +4678,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd4291"), 
     "name" : "Scenic", 
@@ -4685,7 +4686,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd4292"), 
     "name" : "Symbol", 
@@ -4693,7 +4694,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd4293"), 
     "name" : "Talisman", 
@@ -4701,7 +4702,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd4294"), 
     "name" : "Trafic", 
@@ -4709,7 +4710,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd4295"), 
     "name" : "Twingo", 
@@ -4717,7 +4718,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd4296"), 
     "name" : "Vel Satis", 
@@ -4725,7 +4726,7 @@
     "brand" : "Renault", 
     "created" : ISODate("2019-04-06T12:10:08.073+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.073+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd4297"), 
     "name" : "100 Series", 
@@ -4733,7 +4734,7 @@
     "brand" : "Skoda", 
     "created" : ISODate("2019-04-06T12:10:08.866+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.866+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd4298"), 
     "name" : "105, 120", 
@@ -4741,7 +4742,7 @@
     "brand" : "Skoda", 
     "created" : ISODate("2019-04-06T12:10:08.866+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.866+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd4299"), 
     "name" : "1200", 
@@ -4749,7 +4750,7 @@
     "brand" : "Skoda", 
     "created" : ISODate("2019-04-06T12:10:08.866+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.866+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd429a"), 
     "name" : "Citigo", 
@@ -4757,7 +4758,7 @@
     "brand" : "Skoda", 
     "created" : ISODate("2019-04-06T12:10:08.866+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.866+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd429b"), 
     "name" : "Fabia", 
@@ -4765,7 +4766,7 @@
     "brand" : "Skoda", 
     "created" : ISODate("2019-04-06T12:10:08.866+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.866+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd429c"), 
     "name" : "Fabia RS", 
@@ -4773,7 +4774,7 @@
     "brand" : "Skoda", 
     "created" : ISODate("2019-04-06T12:10:08.866+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.866+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd429d"), 
     "name" : "Favorit", 
@@ -4781,7 +4782,7 @@
     "brand" : "Skoda", 
     "created" : ISODate("2019-04-06T12:10:08.867+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.867+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd429e"), 
     "name" : "Felicia", 
@@ -4789,7 +4790,7 @@
     "brand" : "Skoda", 
     "created" : ISODate("2019-04-06T12:10:08.867+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.867+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd429f"), 
     "name" : "Forman", 
@@ -4797,7 +4798,7 @@
     "brand" : "Skoda", 
     "created" : ISODate("2019-04-06T12:10:08.867+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.867+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd42a0"), 
     "name" : "Karoq", 
@@ -4805,7 +4806,7 @@
     "brand" : "Skoda", 
     "created" : ISODate("2019-04-06T12:10:08.867+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.867+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd42a1"), 
     "name" : "Kodiaq", 
@@ -4813,7 +4814,7 @@
     "brand" : "Skoda", 
     "created" : ISODate("2019-04-06T12:10:08.867+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.867+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd42a2"), 
     "name" : "Kodiaq RS", 
@@ -4821,7 +4822,7 @@
     "brand" : "Skoda", 
     "created" : ISODate("2019-04-06T12:10:08.867+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.867+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd42a3"), 
     "name" : "Octavia", 
@@ -4829,7 +4830,7 @@
     "brand" : "Skoda", 
     "created" : ISODate("2019-04-06T12:10:08.868+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.868+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd42a4"), 
     "name" : "Octavia RS", 
@@ -4837,7 +4838,7 @@
     "brand" : "Skoda", 
     "created" : ISODate("2019-04-06T12:10:08.868+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.868+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd42a5"), 
     "name" : "Popular", 
@@ -4845,7 +4846,7 @@
     "brand" : "Skoda", 
     "created" : ISODate("2019-04-06T12:10:08.868+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.868+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd42a6"), 
     "name" : "Rapid", 
@@ -4853,7 +4854,7 @@
     "brand" : "Skoda", 
     "created" : ISODate("2019-04-06T12:10:08.868+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.868+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd42a7"), 
     "name" : "Roomster", 
@@ -4861,7 +4862,7 @@
     "brand" : "Skoda", 
     "created" : ISODate("2019-04-06T12:10:08.868+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.868+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd42a8"), 
     "name" : "Scala", 
@@ -4869,7 +4870,7 @@
     "brand" : "Skoda", 
     "created" : ISODate("2019-04-06T12:10:08.868+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.868+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd42a9"), 
     "name" : "Superb", 
@@ -4877,7 +4878,7 @@
     "brand" : "Skoda", 
     "created" : ISODate("2019-04-06T12:10:08.868+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.868+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897201ea0e60010dd42aa"), 
     "name" : "Yeti", 
@@ -4885,7 +4886,7 @@
     "brand" : "Skoda", 
     "created" : ISODate("2019-04-06T12:10:08.868+0000"), 
     "updated" : ISODate("2019-04-06T12:10:08.868+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897211ea0e60010dd42ab"), 
     "name" : "Actyon", 
@@ -4893,7 +4894,7 @@
     "brand" : "SsangYong", 
     "created" : ISODate("2019-04-06T12:10:09.852+0000"), 
     "updated" : ISODate("2019-04-06T12:10:09.852+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897211ea0e60010dd42ac"), 
     "name" : "Actyon Sports", 
@@ -4901,7 +4902,7 @@
     "brand" : "SsangYong", 
     "created" : ISODate("2019-04-06T12:10:09.852+0000"), 
     "updated" : ISODate("2019-04-06T12:10:09.852+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897211ea0e60010dd42ad"), 
     "name" : "Chairman", 
@@ -4909,7 +4910,7 @@
     "brand" : "SsangYong", 
     "created" : ISODate("2019-04-06T12:10:09.852+0000"), 
     "updated" : ISODate("2019-04-06T12:10:09.852+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897211ea0e60010dd42ae"), 
     "name" : "Istana", 
@@ -4917,7 +4918,7 @@
     "brand" : "SsangYong", 
     "created" : ISODate("2019-04-06T12:10:09.852+0000"), 
     "updated" : ISODate("2019-04-06T12:10:09.852+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897211ea0e60010dd42af"), 
     "name" : "Kallista", 
@@ -4925,7 +4926,7 @@
     "brand" : "SsangYong", 
     "created" : ISODate("2019-04-06T12:10:09.852+0000"), 
     "updated" : ISODate("2019-04-06T12:10:09.852+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897211ea0e60010dd42b0"), 
     "name" : "Korando", 
@@ -4933,7 +4934,7 @@
     "brand" : "SsangYong", 
     "created" : ISODate("2019-04-06T12:10:09.852+0000"), 
     "updated" : ISODate("2019-04-06T12:10:09.852+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897211ea0e60010dd42b1"), 
     "name" : "Korando Family", 
@@ -4941,7 +4942,7 @@
     "brand" : "SsangYong", 
     "created" : ISODate("2019-04-06T12:10:09.852+0000"), 
     "updated" : ISODate("2019-04-06T12:10:09.852+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897211ea0e60010dd42b2"), 
     "name" : "Korando Sports", 
@@ -4949,7 +4950,7 @@
     "brand" : "SsangYong", 
     "created" : ISODate("2019-04-06T12:10:09.852+0000"), 
     "updated" : ISODate("2019-04-06T12:10:09.852+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897211ea0e60010dd42b3"), 
     "name" : "Korando Turismo", 
@@ -4957,7 +4958,7 @@
     "brand" : "SsangYong", 
     "created" : ISODate("2019-04-06T12:10:09.852+0000"), 
     "updated" : ISODate("2019-04-06T12:10:09.852+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897211ea0e60010dd42b4"), 
     "name" : "Kyron", 
@@ -4965,7 +4966,7 @@
     "brand" : "SsangYong", 
     "created" : ISODate("2019-04-06T12:10:09.852+0000"), 
     "updated" : ISODate("2019-04-06T12:10:09.852+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897211ea0e60010dd42b5"), 
     "name" : "Musso", 
@@ -4973,7 +4974,7 @@
     "brand" : "SsangYong", 
     "created" : ISODate("2019-04-06T12:10:09.852+0000"), 
     "updated" : ISODate("2019-04-06T12:10:09.852+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897211ea0e60010dd42b6"), 
     "name" : "Nomad", 
@@ -4981,7 +4982,7 @@
     "brand" : "SsangYong", 
     "created" : ISODate("2019-04-06T12:10:09.852+0000"), 
     "updated" : ISODate("2019-04-06T12:10:09.852+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897211ea0e60010dd42b7"), 
     "name" : "Rexton", 
@@ -4989,7 +4990,7 @@
     "brand" : "SsangYong", 
     "created" : ISODate("2019-04-06T12:10:09.852+0000"), 
     "updated" : ISODate("2019-04-06T12:10:09.852+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897211ea0e60010dd42b8"), 
     "name" : "Rodius", 
@@ -4997,7 +4998,7 @@
     "brand" : "SsangYong", 
     "created" : ISODate("2019-04-06T12:10:09.852+0000"), 
     "updated" : ISODate("2019-04-06T12:10:09.852+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897211ea0e60010dd42b9"), 
     "name" : "Stavic", 
@@ -5005,7 +5006,7 @@
     "brand" : "SsangYong", 
     "created" : ISODate("2019-04-06T12:10:09.852+0000"), 
     "updated" : ISODate("2019-04-06T12:10:09.852+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897211ea0e60010dd42ba"), 
     "name" : "Tivoli", 
@@ -5013,7 +5014,7 @@
     "brand" : "SsangYong", 
     "created" : ISODate("2019-04-06T12:10:09.852+0000"), 
     "updated" : ISODate("2019-04-06T12:10:09.852+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897211ea0e60010dd42bb"), 
     "name" : "XLV", 
@@ -5021,7 +5022,7 @@
     "brand" : "SsangYong", 
     "created" : ISODate("2019-04-06T12:10:09.852+0000"), 
     "updated" : ISODate("2019-04-06T12:10:09.852+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42bc"), 
     "name" : "1000", 
@@ -5029,7 +5030,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42bd"), 
     "name" : "360", 
@@ -5037,7 +5038,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42be"), 
     "name" : "Alcyone", 
@@ -5045,7 +5046,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42bf"), 
     "name" : "Ascent", 
@@ -5053,7 +5054,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42c0"), 
     "name" : "BRZ", 
@@ -5061,7 +5062,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42c1"), 
     "name" : "Baja", 
@@ -5069,7 +5070,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42c2"), 
     "name" : "Bighorn", 
@@ -5077,7 +5078,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42c3"), 
     "name" : "Bistro", 
@@ -5085,7 +5086,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42c4"), 
     "name" : "Brat", 
@@ -5093,7 +5094,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42c5"), 
     "name" : "Dex", 
@@ -5101,7 +5102,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42c6"), 
     "name" : "Dias Wagon", 
@@ -5109,7 +5110,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42c7"), 
     "name" : "Domingo", 
@@ -5117,7 +5118,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42c8"), 
     "name" : "Exiga", 
@@ -5125,7 +5126,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42c9"), 
     "name" : "Forester", 
@@ -5133,7 +5134,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42ca"), 
     "name" : "Impreza", 
@@ -5141,7 +5142,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42cb"), 
     "name" : "Impreza WRX", 
@@ -5149,7 +5150,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42cc"), 
     "name" : "Impreza WRX STi", 
@@ -5157,7 +5158,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42cd"), 
     "name" : "Justy", 
@@ -5165,7 +5166,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42ce"), 
     "name" : "Legacy", 
@@ -5173,7 +5174,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42cf"), 
     "name" : "Legacy Lancaster", 
@@ -5181,7 +5182,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42d0"), 
     "name" : "Leone", 
@@ -5189,7 +5190,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42d1"), 
     "name" : "Outback", 
@@ -5197,7 +5198,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42d2"), 
     "name" : "Pleo", 
@@ -5205,7 +5206,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42d3"), 
     "name" : "R2", 
@@ -5213,7 +5214,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42d4"), 
     "name" : "Sambar", 
@@ -5221,7 +5222,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42d5"), 
     "name" : "Stella", 
@@ -5229,7 +5230,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42d6"), 
     "name" : "Tribeca", 
@@ -5237,7 +5238,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42d7"), 
     "name" : "WRX", 
@@ -5245,7 +5246,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42d8"), 
     "name" : "WRX STi", 
@@ -5253,7 +5254,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897221ea0e60010dd42d9"), 
     "name" : "XV", 
@@ -5261,7 +5262,7 @@
     "brand" : "Subaru", 
     "created" : ISODate("2019-04-06T12:10:10.750+0000"), 
     "updated" : ISODate("2019-04-06T12:10:10.750+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42da"), 
     "name" : "APV", 
@@ -5269,7 +5270,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.795+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.795+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42db"), 
     "name" : "Aerio", 
@@ -5277,7 +5278,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.795+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.795+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42dc"), 
     "name" : "Alto", 
@@ -5285,7 +5286,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.795+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.795+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42dd"), 
     "name" : "Alto Lapin", 
@@ -5293,7 +5294,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.795+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.795+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42de"), 
     "name" : "Baleno", 
@@ -5301,7 +5302,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.795+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.795+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42df"), 
     "name" : "Cappuccino", 
@@ -5309,7 +5310,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.795+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.795+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42e0"), 
     "name" : "Cara", 
@@ -5317,7 +5318,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.796+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.796+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42e1"), 
     "name" : "Carry", 
@@ -5325,7 +5326,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.796+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.796+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42e2"), 
     "name" : "Celerio", 
@@ -5333,7 +5334,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.796+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.796+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42e3"), 
     "name" : "Cervo", 
@@ -5341,7 +5342,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.796+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.796+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42e4"), 
     "name" : "Cultus", 
@@ -5349,7 +5350,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.796+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.796+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42e5"), 
     "name" : "Escudo", 
@@ -5357,7 +5358,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.796+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.796+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42e6"), 
     "name" : "Every", 
@@ -5365,7 +5366,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.796+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.796+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42e7"), 
     "name" : "Forenza", 
@@ -5373,7 +5374,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.796+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.796+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42e8"), 
     "name" : "Grand Vitara", 
@@ -5381,7 +5382,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.796+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.796+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42e9"), 
     "name" : "Hustler", 
@@ -5389,7 +5390,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.796+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.796+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42ea"), 
     "name" : "Ignis", 
@@ -5397,7 +5398,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.796+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.796+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42eb"), 
     "name" : "Jimny", 
@@ -5405,7 +5406,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.796+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.796+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42ec"), 
     "name" : "Kizashi", 
@@ -5413,7 +5414,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.796+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.796+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42ed"), 
     "name" : "Liana", 
@@ -5421,7 +5422,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.796+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.796+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42ee"), 
     "name" : "SX4", 
@@ -5429,7 +5430,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.796+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.796+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42ef"), 
     "name" : "Samurai", 
@@ -5437,7 +5438,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.796+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.796+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42f0"), 
     "name" : "Solio", 
@@ -5445,7 +5446,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.796+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.796+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42f1"), 
     "name" : "Spacia", 
@@ -5453,7 +5454,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.796+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.796+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42f2"), 
     "name" : "Splash", 
@@ -5461,7 +5462,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.796+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.796+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42f3"), 
     "name" : "Swift", 
@@ -5469,7 +5470,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.796+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.796+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42f4"), 
     "name" : "Vitara", 
@@ -5477,7 +5478,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.796+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.796+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42f5"), 
     "name" : "Wagon R", 
@@ -5485,7 +5486,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.796+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.796+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42f6"), 
     "name" : "Wagon R+", 
@@ -5493,7 +5494,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.796+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.796+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897231ea0e60010dd42f7"), 
     "name" : "XL7", 
@@ -5501,7 +5502,7 @@
     "brand" : "Suzuki", 
     "created" : ISODate("2019-04-06T12:10:11.796+0000"), 
     "updated" : ISODate("2019-04-06T12:10:11.796+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd42f8"), 
     "name" : "4Runner", 
@@ -5509,7 +5510,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd42f9"), 
     "name" : "Alphard", 
@@ -5517,7 +5518,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd42fa"), 
     "name" : "Auris", 
@@ -5525,7 +5526,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd42fb"), 
     "name" : "Avensis", 
@@ -5533,7 +5534,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd42fc"), 
     "name" : "C-HR", 
@@ -5541,7 +5542,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd42fd"), 
     "name" : "Caldina", 
@@ -5549,7 +5550,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd42fe"), 
     "name" : "Camry", 
@@ -5557,7 +5558,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd42ff"), 
     "name" : "Carina", 
@@ -5565,7 +5566,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd4300"), 
     "name" : "Carina E", 
@@ -5573,7 +5574,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd4301"), 
     "name" : "Celica", 
@@ -5581,7 +5582,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd4302"), 
     "name" : "Chaser", 
@@ -5589,7 +5590,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd4303"), 
     "name" : "Corolla", 
@@ -5597,7 +5598,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd4304"), 
     "name" : "Cresta", 
@@ -5605,7 +5606,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd4305"), 
     "name" : "Crown", 
@@ -5613,7 +5614,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd4306"), 
     "name" : "Estima", 
@@ -5621,7 +5622,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd4307"), 
     "name" : "Fortuner", 
@@ -5629,7 +5630,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd4308"), 
     "name" : "HiAce", 
@@ -5637,7 +5638,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd4309"), 
     "name" : "Highlander", 
@@ -5645,7 +5646,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd430a"), 
     "name" : "Hilux", 
@@ -5653,7 +5654,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd430b"), 
     "name" : "Land Cruiser", 
@@ -5661,7 +5662,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd430c"), 
     "name" : "Land Cruiser Prado", 
@@ -5669,7 +5670,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd430d"), 
     "name" : "Mark II", 
@@ -5677,7 +5678,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd430e"), 
     "name" : "Prius", 
@@ -5685,7 +5686,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd430f"), 
     "name" : "RAV 4", 
@@ -5693,7 +5694,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd4310"), 
     "name" : "Sequoia", 
@@ -5701,7 +5702,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd4311"), 
     "name" : "Sienna", 
@@ -5709,7 +5710,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd4312"), 
     "name" : "Tundra", 
@@ -5717,7 +5718,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd4313"), 
     "name" : "Venza", 
@@ -5725,7 +5726,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd4314"), 
     "name" : "Verso", 
@@ -5733,7 +5734,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897241ea0e60010dd4315"), 
     "name" : "Yaris", 
@@ -5741,7 +5742,7 @@
     "brand" : "Toyota", 
     "created" : ISODate("2019-04-06T12:10:12.895+0000"), 
     "updated" : ISODate("2019-04-06T12:10:12.895+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd4316"), 
     "name" : "Amarok", 
@@ -5749,7 +5750,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd4317"), 
     "name" : "Beetle", 
@@ -5757,7 +5758,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd4318"), 
     "name" : "Bora", 
@@ -5765,7 +5766,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd4319"), 
     "name" : "Caddy", 
@@ -5773,7 +5774,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd431a"), 
     "name" : "Caravelle", 
@@ -5781,7 +5782,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd431b"), 
     "name" : "Corrado", 
@@ -5789,7 +5790,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd431c"), 
     "name" : "Eos", 
@@ -5797,7 +5798,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd431d"), 
     "name" : "Golf", 
@@ -5805,7 +5806,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd431e"), 
     "name" : "Golf Country", 
@@ -5813,7 +5814,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd431f"), 
     "name" : "Golf GTI", 
@@ -5821,7 +5822,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd4320"), 
     "name" : "Golf Plus", 
@@ -5829,7 +5830,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd4321"), 
     "name" : "Golf R", 
@@ -5837,7 +5838,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd4322"), 
     "name" : "Golf R32", 
@@ -5845,7 +5846,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd4323"), 
     "name" : "Jetta", 
@@ -5853,7 +5854,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd4324"), 
     "name" : "Lupo", 
@@ -5861,7 +5862,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd4325"), 
     "name" : "Multivan", 
@@ -5869,7 +5870,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd4326"), 
     "name" : "Passat", 
@@ -5877,7 +5878,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd4327"), 
     "name" : "Passat CC", 
@@ -5885,7 +5886,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd4328"), 
     "name" : "Phaeton", 
@@ -5893,7 +5894,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd4329"), 
     "name" : "Pointer", 
@@ -5901,7 +5902,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd432a"), 
     "name" : "Polo", 
@@ -5909,7 +5910,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd432b"), 
     "name" : "Scirocco", 
@@ -5917,7 +5918,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd432c"), 
     "name" : "Sharan", 
@@ -5925,7 +5926,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd432d"), 
     "name" : "Teramont", 
@@ -5933,7 +5934,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd432e"), 
     "name" : "Tiguan", 
@@ -5941,7 +5942,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd432f"), 
     "name" : "Touareg", 
@@ -5949,7 +5950,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd4330"), 
     "name" : "Touran", 
@@ -5957,7 +5958,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd4331"), 
     "name" : "Transporter", 
@@ -5965,7 +5966,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd4332"), 
     "name" : "Type 1", 
@@ -5973,7 +5974,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897251ea0e60010dd4333"), 
     "name" : "Vento", 
@@ -5981,7 +5982,7 @@
     "brand" : "Volkswagen", 
     "created" : ISODate("2019-04-06T12:10:13.938+0000"), 
     "updated" : ISODate("2019-04-06T12:10:13.938+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4334"), 
     "name" : "120 Series", 
@@ -5989,7 +5990,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4335"), 
     "name" : "140 Series", 
@@ -5997,7 +5998,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4336"), 
     "name" : "164", 
@@ -6005,7 +6006,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4337"), 
     "name" : "240 Series", 
@@ -6013,7 +6014,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4338"), 
     "name" : "440", 
@@ -6021,7 +6022,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4339"), 
     "name" : "460", 
@@ -6029,7 +6030,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd433a"), 
     "name" : "740", 
@@ -6037,7 +6038,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd433b"), 
     "name" : "760", 
@@ -6045,7 +6046,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd433c"), 
     "name" : "850", 
@@ -6053,7 +6054,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd433d"), 
     "name" : "940", 
@@ -6061,7 +6062,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd433e"), 
     "name" : "960", 
@@ -6069,7 +6070,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd433f"), 
     "name" : "C30", 
@@ -6077,7 +6078,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4340"), 
     "name" : "C70", 
@@ -6085,7 +6086,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4341"), 
     "name" : "S40", 
@@ -6093,7 +6094,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4342"), 
     "name" : "S60", 
@@ -6101,7 +6102,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4343"), 
     "name" : "S70", 
@@ -6109,7 +6110,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4344"), 
     "name" : "S80", 
@@ -6117,7 +6118,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4345"), 
     "name" : "S90", 
@@ -6125,7 +6126,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4346"), 
     "name" : "V40", 
@@ -6133,7 +6134,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4347"), 
     "name" : "V40 Cross Country", 
@@ -6141,7 +6142,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4348"), 
     "name" : "V50", 
@@ -6149,7 +6150,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4349"), 
     "name" : "V60", 
@@ -6157,7 +6158,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd434a"), 
     "name" : "V60 Cross Country", 
@@ -6165,7 +6166,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd434b"), 
     "name" : "V70", 
@@ -6173,7 +6174,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd434c"), 
     "name" : "V90", 
@@ -6181,7 +6182,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd434d"), 
     "name" : "V90 Cross Country", 
@@ -6189,7 +6190,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd434e"), 
     "name" : "XC40", 
@@ -6197,7 +6198,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd434f"), 
     "name" : "XC60", 
@@ -6205,7 +6206,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4350"), 
     "name" : "XC70", 
@@ -6213,7 +6214,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4351"), 
     "name" : "XC90", 
@@ -6221,7 +6222,7 @@
     "brand" : "Volvo", 
     "created" : ISODate("2019-04-06T12:10:15.204+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.204+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4352"), 
     "name" : "3151", 
@@ -6229,7 +6230,7 @@
     "brand" : "УАЗ", 
     "created" : ISODate("2019-04-06T12:10:15.931+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.931+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4353"), 
     "name" : "3153", 
@@ -6237,7 +6238,7 @@
     "brand" : "УАЗ", 
     "created" : ISODate("2019-04-06T12:10:15.932+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.932+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4354"), 
     "name" : "3159", 
@@ -6245,7 +6246,7 @@
     "brand" : "УАЗ", 
     "created" : ISODate("2019-04-06T12:10:15.932+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.932+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4355"), 
     "name" : "3160", 
@@ -6253,7 +6254,7 @@
     "brand" : "УАЗ", 
     "created" : ISODate("2019-04-06T12:10:15.932+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.932+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4356"), 
     "name" : "3162 Simbir", 
@@ -6261,7 +6262,7 @@
     "brand" : "УАЗ", 
     "created" : ISODate("2019-04-06T12:10:15.932+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.932+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4357"), 
     "name" : "469", 
@@ -6269,7 +6270,7 @@
     "brand" : "УАЗ", 
     "created" : ISODate("2019-04-06T12:10:15.932+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.932+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4358"), 
     "name" : "Hunter", 
@@ -6277,7 +6278,7 @@
     "brand" : "УАЗ", 
     "created" : ISODate("2019-04-06T12:10:15.932+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.932+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd4359"), 
     "name" : "Patriot", 
@@ -6285,7 +6286,7 @@
     "brand" : "УАЗ", 
     "created" : ISODate("2019-04-06T12:10:15.932+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.932+0000")
-}
+},
 { 
     "_id" : ObjectId("5ca897271ea0e60010dd435a"), 
     "name" : "Pickup", 
@@ -6294,3 +6295,4 @@
     "created" : ISODate("2019-04-06T12:10:15.932+0000"), 
     "updated" : ISODate("2019-04-06T12:10:15.932+0000")
 }
+]

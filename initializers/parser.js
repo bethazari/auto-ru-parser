@@ -1,5 +1,4 @@
 
-const fileType = require('file-type');
 const rp = require("request-promise");
 const $ = require("cheerio");
 
@@ -15,7 +14,7 @@ const delay = util.promisify((ms, f) => setTimeout(f, ms));
 class AutoRuParserInitializer {
 
   async start() {
-    altha.logger.app.info("<==== Brands loading ====>");
+    /*altha.logger.app.info("<==== Brands loading ====>");
     const brands = await this.loadBrands();
     altha.logger.app.info("<==== Models loading ====>");
     let models = [];
@@ -27,12 +26,15 @@ class AutoRuParserInitializer {
     for (let model of models) {
       generations = generations.concat(await this.loadGenerations(model));
     }
+    altha.logger.app.info("<==== Actualizing ====>");
+    const { actualBrands, actualModels, actualGenerations } = this.actualize(brands, models, generations);
+
     altha.logger.app.info("<==== Generations images caching ====>");
     const images = await readDir(`${path.resolve(".")}/cdn/images`);
     for (let generation of generations) {
       await this.loadImage(generation, images);
     }
-
+    */
     // # TODO: тут будет парсинг кузовов и цен по каждому - но только по выбранным юзером в интерфейсе моделям
   }
 
@@ -134,6 +136,18 @@ class AutoRuParserInitializer {
         { $set: { image_name: imageName, updated: new Date() } },
       )
     }
+  }
+
+  async actualize(brands, models, generations) {
+    const actualGenerations = generations.filter(generation => generation.end_year > 2006);
+    altha.logger.app.info(`There are ${generations.length} actual generations!`);
+    const actualModelsNames = actualGenerations.map(generation => generation.model);
+    const actualModels = models.filter(model => model.name in actualModelsNames);
+    altha.logger.app.info(`There are ${models.length} actual models!`);
+    const actualBrandsNames = actualModels.map(model => model.brand);
+    const actualBrands = brands.filter(brand = brand.name in actualBrandsNames);
+    altha.logger.app.info(`There are ${brands.length} actual brands!`);
+    return { actualBrands, actualModels, actualGenerations };
   }
 
   async _getAutoRuPageHtml(url) {

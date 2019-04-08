@@ -147,6 +147,7 @@ class AutoRuParserInitializer {
     const actualBrandsNames = actualModels.map(model => model.brand);
     const actualBrands = brands.filter(brand = brand.name in actualBrandsNames);
     altha.logger.app.info(`There are ${brands.length} actual brands!`);
+    // # TODO: actual: true to db
     return { actualBrands, actualModels, actualGenerations };
   }
 

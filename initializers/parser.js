@@ -14,7 +14,7 @@ const delay = util.promisify((ms, f) => setTimeout(f, ms));
 class AutoRuParserInitializer {
 
   async start() {
-    /*altha.logger.app.info("<==== Brands loading ====>");
+    altha.logger.app.info("<==== Brands loading ====>");
     const brands = await this.loadBrands();
     altha.logger.app.info("<==== Models loading ====>");
     let models = [];
@@ -31,10 +31,10 @@ class AutoRuParserInitializer {
 
     altha.logger.app.info("<==== Generations images caching ====>");
     const images = await readDir(`${path.resolve(".")}/cdn/images`);
-    for (let generation of generations) {
+    for (let generation of actualGenerations) {
       await this.loadImage(generation, images);
     }
-    */
+
     // # TODO: тут будет парсинг кузовов и цен по каждому - но только по выбранным юзером в интерфейсе моделям
   }
 

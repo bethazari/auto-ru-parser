@@ -134,20 +134,49 @@ class AutoRuParserInitializer {
       await altha.mongo.main.db.collection("generations").updateOne(
         { _id: new altha.helpers.utils.ObjectId(generation._id) },
         { $set: { image_name: imageName, updated: new Date() } },
-      )
+      );
     }
   }
 
   async actualize(brands, models, generations) {
     const actualGenerations = generations.filter(generation => generation.end_year > 2006);
     altha.logger.app.info(`There are ${generations.length} actual generations!`);
+    altha.logger.app.info(`Saving actual flags for generations into db...`);
+    await Promise.all(
+      actualGenerations.map(generation =>
+        altha.mongo.main.db.collection("generations").updateOne(
+          { _id: new altha.helpers.utils.ObjectId(generation._id) },
+          { $set: { actual: true, updated: new Date() } },
+        )
+      )
+    );
+
     const actualModelsNames = actualGenerations.map(generation => generation.model);
     const actualModels = models.filter(model => model.name in actualModelsNames);
     altha.logger.app.info(`There are ${models.length} actual models!`);
+    altha.logger.app.info(`Saving actual flags for models into db...`);
+    await Promise.all(
+      actualModels.map(model =>
+        altha.mongo.main.db.collection("models").updateOne(
+          { _id: new altha.helpers.utils.ObjectId(model._id) },
+          { $set: { actual: true, updated: new Date() } },
+        )
+      )
+    );
+
     const actualBrandsNames = actualModels.map(model => model.brand);
     const actualBrands = brands.filter(brand = brand.name in actualBrandsNames);
     altha.logger.app.info(`There are ${brands.length} actual brands!`);
-    // # TODO: actual: true to db
+    altha.logger.app.info(`Saving actual flags for brands into db...`);
+    await Promise.all(
+      actualBrands.map(brand =>
+        altha.mongo.main.db.collection("brands").updateOne(
+          { _id: new altha.helpers.utils.ObjectId(brand._id) },
+          { $set: { actual: true, updated: new Date() } },
+        )
+      )
+    );
+
     return { actualBrands, actualModels, actualGenerations };
   }
 

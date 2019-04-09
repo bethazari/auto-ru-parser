@@ -39,6 +39,7 @@ class AutoRuParserInitializer {
       await this.loadStats(actualGenerations[0]);
     //}
 
+
     // # TODO: тут будет парсинг кузовов и цен по каждому - но только по выбранным юзером в интерфейсе моделям
   }
 
@@ -134,7 +135,8 @@ class AutoRuParserInitializer {
     if (!imageExists) {
       altha.logger.app.info(`There is no image for brand ${generation.brand}, model ${generation.model}, generation ${generation.name} on fs!`);
       const response = await this._getAutoRuImage(`http://${generation.image}`);
-      const imageName = `${generation.name.replace(/\//g, "_")}.${response.headers["content-type"].split("image/")[1]}`;
+      const imageNameBase = `${generation.brand.replace(/\//g, "_")}_${generation.model.replace(/\//g, "_")}_${generation.name.replace(/\//g, "_")}`;
+      const imageName = `${imageNameBase}.${response.headers["content-type"].split("image/")[1]}`;
       altha.logger.app.info(`Fetched image for brand ${generation.brand}, model ${generation.model}, generation ${generation.name}!`);
       await writeFile(`${path.resolve(".")}/cdn/images/${imageName}`, response.body, "binary");
       altha.logger.app.info(`Saving imagename into db...`);

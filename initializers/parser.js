@@ -30,10 +30,10 @@ class AutoRuParserInitializer {
     const { actualBrands, actualModels, actualGenerations } = await this.actualize(brands, models, generations);
 
     altha.logger.app.info("<==== Generations images caching ====>");
-    /*const images = await readDir(`${path.resolve(".")}/cdn/images`);
+    const images = await readDir(`${path.resolve(".")}/cdn/images`);
     for (let generation of actualGenerations) {
       await this.loadImage(generation, images);
-    }*/
+    }
 
     // # TODO: тут будет парсинг кузовов и цен по каждому - но только по выбранным юзером в интерфейсе моделям
   }

@@ -130,6 +130,7 @@ class AutoRuParserInitializer {
   }
 
   async loadImage(generation, images) {
+    // # TODO: чёт изображений мало!
     altha.logger.app.info(`Fetch image for brand ${generation.brand}, model ${generation.model}, generation ${generation.name} from fs...`);
     const imageExists = images.find(imageName => imageName === generation.image_name);
     if (!imageExists) {

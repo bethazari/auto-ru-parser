@@ -27,13 +27,13 @@ class AutoRuParserInitializer {
       generations = generations.concat(await this.loadGenerations(model));
     }
     altha.logger.app.info("<==== Actualizing ====>");
-    const { actualBrands, actualModels, actualGenerations } = this.actualize(brands, models, generations);
+    const { actualBrands, actualModels, actualGenerations } = await this.actualize(brands, models, generations);
 
     altha.logger.app.info("<==== Generations images caching ====>");
-    const images = await readDir(`${path.resolve(".")}/cdn/images`);
+    /*const images = await readDir(`${path.resolve(".")}/cdn/images`);
     for (let generation of actualGenerations) {
       await this.loadImage(generation, images);
-    }
+    }*/
 
     // # TODO: тут будет парсинг кузовов и цен по каждому - но только по выбранным юзером в интерфейсе моделям
   }
@@ -139,40 +139,52 @@ class AutoRuParserInitializer {
   }
 
   async actualize(brands, models, generations) {
-    const actualGenerations = generations.filter(generation => generation.end_year > 2006);
-    altha.logger.app.info(`There are ${generations.length} actual generations!`);
+    const actualizedGenerations = generations.map(generation => ({
+      ...generation,
+      actual: (generation.end_year == "н.в.") || (+generation.end_year > 2006),
+    }));
+    const actualGenerations = actualizedGenerations.filter(generation => generation.actual);
+    altha.logger.app.info(`There are ${actualGenerations.length} actual generations!`);
     altha.logger.app.info(`Saving actual flags for generations into db...`);
     await Promise.all(
-      actualGenerations.map(generation =>
+      actualizedGenerations.map(generation =>
         altha.mongo.main.db.collection("generations").updateOne(
           { _id: new altha.helpers.utils.ObjectId(generation._id) },
-          { $set: { actual: true, updated: new Date() } },
+          { $set: { actual: generation.actual, updated: new Date() } },
         )
       )
     );
 
     const actualModelsNames = actualGenerations.map(generation => generation.model);
-    const actualModels = models.filter(model => model.name in actualModelsNames);
-    altha.logger.app.info(`There are ${models.length} actual models!`);
+    const actualizedModels = models.map(model => ({
+      ...model,
+      actual: actualModelsNames.indexOf(model.name) > 0,
+    }));
+    const actualModels = actualizedModels.filter(model => model.actual);
+    altha.logger.app.info(`There are ${actualModels.length} actual models!`);
     altha.logger.app.info(`Saving actual flags for models into db...`);
     await Promise.all(
-      actualModels.map(model =>
+      actualizedModels.map(model =>
         altha.mongo.main.db.collection("models").updateOne(
           { _id: new altha.helpers.utils.ObjectId(model._id) },
-          { $set: { actual: true, updated: new Date() } },
+          { $set: { actual: model.actual, updated: new Date() } },
         )
       )
     );
 
     const actualBrandsNames = actualModels.map(model => model.brand);
-    const actualBrands = brands.filter(brand = brand.name in actualBrandsNames);
-    altha.logger.app.info(`There are ${brands.length} actual brands!`);
+    const actualizedBrands = brands.map(brand => ({
+      ...brand,
+      actual: actualBrandsNames.indexOf(brand.name) > 0,
+    }));
+    const actualBrands = actualizedBrands.filter(brand => brand.actual);
+    altha.logger.app.info(`There are ${actualBrands.length} actual brands!`);
     altha.logger.app.info(`Saving actual flags for brands into db...`);
     await Promise.all(
-      actualBrands.map(brand =>
+      actualizedBrands.map(brand =>
         altha.mongo.main.db.collection("brands").updateOne(
           { _id: new altha.helpers.utils.ObjectId(brand._id) },
-          { $set: { actual: true, updated: new Date() } },
+          { $set: { actual: brand.actual, updated: new Date() } },
         )
       )
     );

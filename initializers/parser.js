@@ -215,8 +215,23 @@ class AutoRuParserInitializer {
     } else {
       altha.logger.app.info(`There are no stats for brand ${generation.brand}, model ${generation.model}, generation ${generation.name} in db!`);
       const html = await this._getAutoRuPageHtml(generation.url.replace("catalog", "stats"));
-      /*const parsedStats = $(".catalog-generation-summary__generations > div", html)
+      const parsedStats = $(".StatsAverage__price", html).text().match(/\d/g).join("");
+      console.log(parsedStats);
+      const parsedStats2 = $(".StatsAverage__title-info", html).text().match(/На основе ([\d\s]+) объявлений от ([\d\s]+) до ([\d\s]+) ₽/g).join("");
+      console.log(parsedStats2);
+      const parsedStats3 = $(".StatsModification__title-info", html).text().match(/<!-- -->(.+)/g).join("");
+      console.log(parsedStats3);
+      const parsedStats4 = $(".StatsModification__row-content", html)
         .map((i, block) => {
+          const info = $(block).find(".SegmentedBarGraph__segment-title HoveredTooltip__trigger").text();
+          return {
+            char: $(block).find(".StatsModification__row-title").text(),
+            info,
+          }
+        })
+        .get();
+      console.log(parsedStats4);
+        /*.map((i, block) => {
           const info = $(block).find(".catalog-generation-summary__gen-info > div");
           const image = $(block).find("div").last();
           const link = $(block).find("a");
@@ -261,5 +276,3 @@ class AutoRuParserInitializer {
 }
 
 module.exports = AutoRuParserInitializer;
-
-    //console.log($(".StatsAverage__price", html).text().match(/\d/g).join(""));

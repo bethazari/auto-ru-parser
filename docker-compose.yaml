@@ -6,16 +6,26 @@ services:
       context: .
       args:
         ACCESS_TOKEN: $ARGONLABS_TOKEN
+    volumes:
+      - ./config:/app/config
+      - ./initializers:/app/initializers
+      - ./cdn:/app/cdn
+    depends_on:
+      - redis
+      - mongo
+
+  ui:
+    entrypoint: nodemon -L /app/node_modules/altha/src/core/altha.js start --app ui
+    build:
+      context: .
+      args:
+        ACCESS_TOKEN: $ARGONLABS_TOKEN
     ports:
       - 8094:80
     volumes:
-      - ./classes:/app/classes
       - ./config:/app/config
       - ./controllers:/app/controllers
-      - ./errors:/app/errors
-      - ./initializers:/app/initializers
-      - ./schemas:/app/schemas
-      - ./data:/app/data
+      - ./pages:/app/pages
       - ./cdn:/app/cdn
     depends_on:
       - redis

@@ -9,8 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "altha": "git+https://ACCESS_TOKEN@git.argonlabs.ru/engines/altha#v1.1.0",
+    "altha": "git+https://ACCESS_TOKEN@git.argonlabs.ru/engines/altha#c1bca1bf665f8680be6021dcec41e69699673e07",
     "cheerio": "1.0.0-rc.2",
+    "isomorphic-unfetch": "3.0.0",
+    "prop-types": "15.7.2",
+    "react": "16.8.4",
+    "react-dom": "16.8.4",
     "request": "2.88.0",
     "request-promise": "4.2.4"
   }

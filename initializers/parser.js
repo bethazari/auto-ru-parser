@@ -215,24 +215,40 @@ class AutoRuParserInitializer {
       return stats;
     } else {
       altha.logger.app.info(`There are no stats for brand ${generation.brand}, model ${generation.model}, generation ${generation.name} in db!`);
-      const html = await this._getAutoRuPageHtml(generation.url.replace("catalog", "stats"));
-      const avgPrice = $(".StatsAverage__price", html).text().match(/\d/g).join("");
-      const priceInfo = $(".StatsAverage__title-info", html).text().match(/На основе ([\d\s]+)объявлени[йя] от([\d\s]+)до([\d\s]+)₽/)
-        .map(s => s.match(/\d/g).join(""));
-      const popularEquip = $(".StatsModification__title-info", html).text().split("Самая популярная модификация ")[1];
-      altha.logger.app.info(`Parsed stats for brand ${generation.brand}, model ${generation.model}, generation ${generation.name}!`);
-      altha.logger.app.info(`Saving stats into db...`);
-      await altha.mongo.main.db.collection("stats").insertOne({
-        brand: generation.brand,
-        model: generation.model,
-        generation: generation.name,
-        body: null,
-        average_price: avgPrice,
-        adverts: priceInfo[1],
-        min_price: priceInfo[2],
-        max_price: priceInfo[3],
-        popular_equip: popularEquip,
-      });
+      try {
+        const html = await this._getAutoRuPageHtml(generation.url.replace("catalog", "stats"));
+        const avgPrice = $(".StatsAverage__price", html).text().match(/\d/g).join("");
+        const priceInfo = $(".StatsAverage__title-info", html).text().match(/На основе ([\d\s]+)объявлени[йя] от([\d\s]+)до([\d\s]+)₽/)
+          .map(s => s.match(/\d/g).join(""));
+        const popularEquip = $(".StatsModification__title-info", html).text().split("Самая популярная модификация ")[1];
+        altha.logger.app.info(`Parsed stats for brand ${generation.brand}, model ${generation.model}, generation ${generation.name}!`);
+        altha.logger.app.info(`Saving stats into db...`);
+        await altha.mongo.main.db.collection("stats").insertOne({
+          brand: generation.brand,
+          model: generation.model,
+          generation: generation.name,
+          body: null,
+          average_price: avgPrice,
+          adverts: priceInfo[1],
+          min_price: priceInfo[2],
+          max_price: priceInfo[3],
+          popular_equip: popularEquip,
+        });
+      } catch (e) {
+        altha.logger.app.info(`There are no stats for brand ${generation.brand}, model ${generation.model}, generation ${generation.name}!`);
+        altha.logger.app.info(`Saving no-stats into db...`);
+        await altha.mongo.main.db.collection("stats").insertOne({
+          brand: generation.brand,
+          model: generation.model,
+          generation: generation.name,
+          body: null,
+          average_price: "-",
+          adverts: "-",
+          min_price: "-",
+          max_price: "-",
+          popular_equip: "-",
+        });
+      }
       return await this.loadStats(generation);
     }
   }

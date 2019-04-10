@@ -2,6 +2,8 @@
 import fetch from "isomorphic-unfetch";
 import React from "react";
 
+import Slider from "../components/Slider";
+
 
 export default class Index extends React.Component {
   static async getInitialProps(ctx) {
@@ -39,14 +41,7 @@ export default class Index extends React.Component {
                 this.props.models.filter(model => model.brand === brand.name).map(model =>
                   <li key={model._id}>
                     <h3>{model.name}</h3>
-                    {
-                      this.props.generations.filter(generation => generation.model === model.name).map(generation =>
-                        <div key={generation._id}>
-                          <span>{generation.name}</span>
-                          <img src={`/static/images/${generation.image_name}`} width={100} />
-                        </div>
-                      )
-                    }
+                    <Slider screenshots={this.props.generations.filter(generation => generation.model === model.name)} />
                   </li>
                 )
               }

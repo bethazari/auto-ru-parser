@@ -1,0 +1,6 @@
+.git*
+.dockerignore
+docker-compose*.yml
+Dockerfile*
+Jenkinsfile*
+node_modules/

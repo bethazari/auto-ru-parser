@@ -35,9 +35,9 @@ class AutoRuParserInitializer {
       await this.loadImage(generation, images);
     }
 
-    //for (let generation of actualGenerations) {
-      await this.loadStats(actualGenerations[0]);
-    //}
+    for (let generation of actualGenerations) {
+      await this.loadStats(generation);
+    }
 
 
     // # TODO: тут будет парсинг кузовов и цен по каждому - но только по выбранным юзером в интерфейсе моделям
@@ -204,55 +204,36 @@ class AutoRuParserInitializer {
 
   async loadStats(generation) {
     altha.logger.app.info(`Fetch stats for brand ${generation.brand}, model ${generation.model}, generation ${generation.name} from db...`);
-    const stats = await altha.mongo.main.db.collection("stats").find({
+    const stats = await altha.mongo.main.db.collection("stats").findOne({
       brand: generation.brand,
       model: generation.model,
       generation: generation.name,
       body: null,
-    }).toArray();
-    if (stats && stats.length) {
-      altha.logger.app.info(`There are ${stats.length} stats for brand ${generation.brand}, model ${generation.name}, generation ${generation.name} in db!`);
-      return stats[0];
+    });
+    if (stats) {
+      altha.logger.app.info(`There are stats for brand ${generation.brand}, model ${generation.name}, generation ${generation.name} in db!`);
+      return stats;
     } else {
       altha.logger.app.info(`There are no stats for brand ${generation.brand}, model ${generation.model}, generation ${generation.name} in db!`);
       const html = await this._getAutoRuPageHtml(generation.url.replace("catalog", "stats"));
-      const parsedStats = $(".StatsAverage__price", html).text().match(/\d/g).join("");
-      console.log(parsedStats);
-      const parsedStats2 = $(".StatsAverage__title-info", html).text().match(/На основе ([\d\s]+) объявлений от ([\d\s]+) до ([\d\s]+) ₽/g).join("");
-      console.log(parsedStats2);
-      const parsedStats3 = $(".StatsModification__title-info", html).text().match(/<!-- -->(.+)/g).join("");
-      console.log(parsedStats3);
-      const parsedStats4 = $(".StatsModification__row-content", html)
-        .map((i, block) => {
-          const info = $(block).find(".SegmentedBarGraph__segment-title HoveredTooltip__trigger").text();
-          return {
-            char: $(block).find(".StatsModification__row-title").text(),
-            info,
-          }
-        })
-        .get();
-      console.log(parsedStats4);
-        /*.map((i, block) => {
-          const info = $(block).find(".catalog-generation-summary__gen-info > div");
-          const image = $(block).find("div").last();
-          const link = $(block).find("a");
-          return {
-            name: $(info).last().text(),
-            url: link.attr("href"),
-            model: model.name,
-            brand: model.brand,
-            image: image.attr("style").replace(/background-image: url\(\/\/(.+)\);/, "$1"),
-            start_year: info.first().text().split(" – ")[0],
-            end_year: info.first().text().split(" – ")[1],
-            created: new Date(),
-            updated: new Date(),
-          }
-        })
-        .get();
-      altha.logger.app.info(`Parsed ${parsedStats.length} stats for brand ${generation.brand}, model ${generation.model}, generation ${generation.name!`);
+      const avgPrice = $(".StatsAverage__price", html).text().match(/\d/g).join("");
+      const priceInfo = $(".StatsAverage__title-info", html).text().match(/На основе ([\d\s]+)объявлени[йя] от([\d\s]+)до([\d\s]+)₽/)
+        .map(s => s.match(/\d/g).join(""));
+      const popularEquip = $(".StatsModification__title-info", html).text().split("Самая популярная модификация ")[1];
+      altha.logger.app.info(`Parsed stats for brand ${generation.brand}, model ${generation.model}, generation ${generation.name}!`);
       altha.logger.app.info(`Saving stats into db...`);
-      await altha.mongo.main.db.collection("stats").insertMany(parsedStats);
-      return parsedStats;*/
+      await altha.mongo.main.db.collection("stats").insertOne({
+        brand: generation.brand,
+        model: generation.model,
+        generation: generation.name,
+        body: null,
+        average_price: avgPrice,
+        adverts: priceInfo[1],
+        min_price: priceInfo[2],
+        max_price: priceInfo[3],
+        popular_equip: popularEquip,
+      });
+      return await this.loadStats(generation);
     }
   }
 
